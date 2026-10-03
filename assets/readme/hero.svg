@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Fable 5.5 use cases</title>
+  <desc id="desc">A curated list of public demos whose authors say they used Claude Fable 5.5. Not an official Anthropic release. The public catalog is still Fable 5.1.</desc>
+  <rect width="1200" height="440" rx="28" fill="#16130f"/>
+  <rect x="0" y="0" width="56" height="440" fill="#100e0c"/>
+  <circle cx="28" cy="36" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="82" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="128" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="174" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="220" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="266" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="312" r="5" fill="#2a241e"/>
+  <circle cx="28" cy="358" r="5" fill="#2a241e"/>
+  <text x="88" y="78" fill="#c4552a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="1.5">SOURCE INDEX  ·  NOT AN OFFICIAL RELEASE</text>
+  <text x="88" y="158" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="64" font-weight="650">Fable 5.5</text>
+  <text x="88" y="226" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="64" font-weight="650">use cases</text>
+  <text x="88" y="286" fill="#d9d0c3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22">Public demos whose own authors say they used it.</text>
+  <text x="88" y="320" fill="#d9d0c3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22">Every case keeps its original link.</text>
+  <line x1="88" y1="348" x2="620" y2="348" stroke="#3a342c" stroke-width="1.5"/>
+  <text x="88" y="378" fill="#a3988c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">19 entries  ·  1 playable  ·  18 videos</text>
+  <text x="88" y="406" fill="#a3988c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">catalog still Fable 5.1</text>
+  <g id="index-cards">
+    <rect x="700" y="48" width="440" height="96" rx="16" fill="#221e19" stroke="#3a342c" stroke-width="1.5"/>
+    <rect x="700" y="48" width="6" height="96" rx="3" fill="#c4552a"/>
+    <text x="724" y="80" fill="#c4552a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">01  PLAYABLE</text>
+    <text x="724" y="112" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22" font-weight="600">Waymo on Lombard Street</text>
+    <g>
+      <rect x="700" y="160" width="440" height="96" rx="16" fill="#221e19" stroke="#3a342c" stroke-width="1.5"/>
+      <rect x="700" y="160" width="6" height="96" rx="3" fill="#c4552a"/>
+      <text x="724" y="192" fill="#c4552a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">02  FILM</text>
+      <text x="724" y="224" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22" font-weight="600">Hugging Face incident</text>
+    </g>
+    <g>
+      <rect x="700" y="272" width="440" height="96" rx="16" fill="#221e19" stroke="#3a342c" stroke-width="1.5"/>
+      <rect x="700" y="272" width="6" height="96" rx="3" fill="#c4552a"/>
+      <text x="724" y="304" fill="#c4552a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">03  FILM</text>
+      <text x="724" y="336" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22" font-weight="600">Human progress, 30 years</text>
+    </g>
+  </g>
+</svg>

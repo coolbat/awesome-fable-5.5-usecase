@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License: CC0-1.0"></a>
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 19 entries, 1 playable, 18 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -11,18 +10,9 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 19 entries (1 playable demo, 18 videos). Last updated 2026-10-03.
 
-## Contents
-
-- [Featured](#featured)
-- [Interactive 3D and games](#interactive-3d-and-games)
-- [Creative coding, films, and animation](#creative-coding-films-and-animation)
-- [Agent and engineering demos](#agent-and-engineering-demos)
-- [Collections and prompt lists](#collections-and-prompt-lists)
-- [Benchmarks and analysis](#benchmarks-and-analysis)
-- [Videos from X](#videos-from-x)
-- [Notable X and Hacker News showcases](#notable-x-and-hacker-news-showcases)
-- [Contributing](#contributing)
-- [License](#license)
+<p align="center">
+  <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
+</p>
 
 ## Featured
 
@@ -30,21 +20,23 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 - [Hugging Face incident](https://x.com/chetaslua/status/2105884276864782557) — @chetaslua — A Blender and ElevenLabs short the author says was "Imagined by Fable 5.5", all code, no skill or plugin.
 - [Human progress, then 30 years](https://x.com/imjustnewatai/status/2106081142143168580) — @imjustnewatai — "I gave Claude fable 5.5 one prompt: a video of all human progress, then 30 years into the future."
 
+## What this is
+
+A source index, not a model card. The cases below are community posts. Each one is here because the author wrote Fable 5.5 in the post itself.
+
+<p align="center">
+  <img src="./assets/readme/rule.svg" width="100%" alt="Four gates for a listing: the source names Fable 5.5, the original link resolves, it is not a rumor or a repost, and it is listed once under the author.">
+</p>
+
+A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
+
+<p align="center">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of nineteen sourced Fable 5.5 cases, with the original titles and links.">
+</p>
+
 ## Interactive 3D and games
 
 - [Waymo teleoperator on Lombard Street](https://x.com/mindblown_ai/status/2106112279079199037) — @mindblown_ai — A playable Three.js Waymo teleoperator on a San Francisco map. The post shows a Lombard Street run and says it was built with Fable 5.5. **[Live demo](https://teleoperator.mindblown.ai)**
-
-## Creative coding, films, and animation
-
-No separate non-video entries yet. Code-drawn films from X are in [Videos from X](#videos-from-x).
-
-## Agent and engineering demos
-
-## Collections and prompt lists
-
-## Benchmarks and analysis
-
-No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
 ## Videos from X
 
@@ -77,14 +69,17 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Quarks to the observable universe](https://x.com/imjustnewatai/status/2106190594775097663) — @imjustnewatai — "I told Claude fable 5.5 to pick its own video idea": a zoom from three quarks across 42 powers of ten, visuals and music in code.
 - [Scary illuminati video](https://x.com/badboyfoxy/status/2106241189976387799) — @badboyfoxy — "i asked fable 5.5 to make a scary video about the illuminati."
 
-## Notable X and Hacker News showcases
-
-No extra threads. Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. See the research notes kept with the collection pass.
+Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License: CC0-1.0"></a>
+</p>
 
 [CC0 1.0](LICENSE).
