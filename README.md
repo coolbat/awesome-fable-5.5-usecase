@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 69 entries, 6 interactive, 63 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 78 entries, 9 interactive, 69 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-69 entries (6 interactive / games, 63 videos). Last updated 2026-10-05.
+78 entries (9 interactive / games, 69 videos). Last updated 2026-10-06.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 69 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 78 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -42,10 +42,13 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 - [Clawd pixel bug-boss game](https://x.com/blueemi99/status/2107108802440900621) — @blueemi99 — A one-shot pixel game where you play as Clawd defeating bugs and bosses. The post says Claude Fable 5.5 made it. **[Live demo](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ)**
 - [The Sun Machine](https://x.com/pankajkumar_dev/status/2106762987872850092) — @pankajkumar_dev — An interactive artificial sun with mirrors, aperture, and eclipse controls in a desert. The post says Fable 5.5 created the whole thing, with a video demo on the post.
 - [Depths of Despair model redesign](https://x.com/atomtanstudio/status/2106900686764134654) — @atomtanstudio — The author says being routed to Fable 5.5 led them to redesign models and pacing in The Depths of Despair, playable in a browser. **[Live demo](https://threecade.games)**
+- [POKERMON: Pokémon x Balatro](https://x.com/anshuc/status/2107180724399075488) — @anshuc — A Pokémon x Balatro card game the author says Fable 5.5 one-shot in one hour after they got access, including mechanics, visuals, music, and the demo video. **[Live demo](https://pokermon.anshu.dev)**
+- [NIGHTSHIFT — Neon Circuit](https://x.com/Armaan_Jain123/status/2107251677615300969) — @Armaan_Jain123 — A browser game the author says Fable 5.5 made in one shot, with sound. **[Live demo](https://drift.hexclave.app)**
+- [Fan product page for OpenAI Dots](https://x.com/JaydenDavisNC/status/2107224501415277040) — @JaydenDavisNC — A fan-made product page for OpenAI Dots that the author says they built using Fable 5.5 and its Blender capabilities. **[Live demo](https://dots-fan-concept.inkwave.workers.dev)**
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05) to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 63 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 69 entries.
 
 ### Motion design and code-drawn animation
 
@@ -82,6 +85,11 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [White Town — Your Woman lyric video](https://x.com/atomtanstudio/status/2106702854639743467) — @atomtanstudio — A lyric music video for White Town — Your Woman. The author says they needed to save Fable 5.5 quota and this was the last lyric video before reset.
 - [Never-seen optical illusion](https://x.com/imjustnewatai/status/2107092333720449392) — @imjustnewatai — An optical illusion the author says they asked Fable 5.5 to make that has never been made or seen before.
 - [Thou Shalt Always Kill lyric video](https://x.com/atomtanstudio/status/2107105998452539639) — @atomtanstudio — A lyric video for Dan Le Sac vs Scroobius Pip — Thou Shalt Always Kill that the author says they made to challenge Fable 5.5 with a lyrically dense song.
+- [Classic stick fight animation](https://x.com/AndrewOnXYZ/status/2107262468502544435) — @AndrewOnXYZ — A classic stick-figure fight the author says they asked Fable 5.5 to make, with very smooth animation.
+- [Upcoming game UI recreation](https://x.com/m_ferreira28/status/2107218218955788429) — @m_ferreira28 — A recreation of the UI from an upcoming game that the author says they asked Fable 5.5 to make, and which they say came out the same.
+- [Hello Claude](https://x.com/ishuagra02/status/2107164574239604925) — @ishuagra02 — A short animation titled Hello Claude that the author says was animated by Fable 5.5.
+- [Brainrot edit for $25](https://x.com/blueemi99/status/2107459553369760024) — @blueemi99 — A brainrot-style video edit the author says Fable 5.5 made, noting that it cost $25.
+- [Rainbow Bridge scene from Along the River During the Qingming Festival](https://x.com/AISuperDomain/status/2107401979265962490) — @AISuperDomain — A recreation of the Rainbow Bridge scene from the scroll painting Along the River During the Qingming Festival, with sound, that the author says Fable 5.5 generated.
 
 ### Interactive 3D
 
@@ -97,6 +105,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Model, rig, and animate pipeline vs Opus 5.5](https://x.com/atomtanstudio/status/2106516974662713477) — @atomtanstudio — A side-by-side from the author's Depths of Despair game comparing Opus 5.5 and Fable 5.5 on Max reasoning for a full model-creation, rigging, and animation pipeline with no third-party assets.
 - [Rocketball C-64 remake](https://x.com/atomtanstudio/status/2106418747083022555) — @atomtanstudio — A code-only remake of the 1980s C-64 Rocketball game that the author says was created with Fable 5.5 on Max reasoning, with a planned publish to threecade.games.
 - [Blender animation, music, models, and rigging](https://x.com/JaydenDavisNC/status/2107086714820870617) — @JaydenDavisNC — A Blender animation the author says Fable 5.5 made, with music, models, animation, and rigging done using Fable 5.5.
+- [Sci-fi game UI and 3D maps for Roblox](https://x.com/MyCodeCoach/status/2107267599843422699) — @MyCodeCoach — Sci-fi game UI and 3D map generation the author credits to Fable 5.5, imported directly into Roblox.
 
 ### Films
 
