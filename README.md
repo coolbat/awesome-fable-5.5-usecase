@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 78 entries, 9 interactive, 69 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 88 entries, 9 interactive, 79 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-78 entries (9 interactive / games, 69 videos). Last updated 2026-10-06.
+88 entries (9 interactive / games, 79 videos). Last updated 2026-10-07.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 78 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 88 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -48,7 +48,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 69 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06 and 2026-10-07), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 69 entries.
 
 ### Motion design and code-drawn animation
 
@@ -90,6 +90,9 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Hello Claude](https://x.com/ishuagra02/status/2107164574239604925) — @ishuagra02 — A short animation titled Hello Claude that the author says was animated by Fable 5.5.
 - [Brainrot edit for $25](https://x.com/blueemi99/status/2107459553369760024) — @blueemi99 — A brainrot-style video edit the author says Fable 5.5 made, noting that it cost $25.
 - [Rainbow Bridge scene from Along the River During the Qingming Festival](https://x.com/AISuperDomain/status/2107401979265962490) — @AISuperDomain — A recreation of the Rainbow Bridge scene from the scroll painting Along the River During the Qingming Festival, with sound, that the author says Fable 5.5 generated.
+- [Claude vs GPT](https://x.com/notjazii/status/2107497752217460896) — @notjazii — A Claude vs GPT animation with sound that the author says Fable 5.5 made with code on high reasoning.
+- [Reference recreation in under an hour](https://x.com/notdwd/status/2107816799840690589) — @notdwd — A recreation of a reference motion piece that the author says Fable 5.5 made in less than one hour from a skill and a prompt.
+- [JavaScript IK animation in the wind](https://x.com/adam_fresko/status/2107637770873417894) — @adam_fresko — An animation made entirely in JavaScript, with IK that reacts to wind and no 3D models or 2D sprites, which the author says they tested during one day of Fable 5.5 access.
 
 ### Interactive 3D
 
@@ -106,6 +109,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Rocketball C-64 remake](https://x.com/atomtanstudio/status/2106418747083022555) — @atomtanstudio — A code-only remake of the 1980s C-64 Rocketball game that the author says was created with Fable 5.5 on Max reasoning, with a planned publish to threecade.games.
 - [Blender animation, music, models, and rigging](https://x.com/JaydenDavisNC/status/2107086714820870617) — @JaydenDavisNC — A Blender animation the author says Fable 5.5 made, with music, models, animation, and rigging done using Fable 5.5.
 - [Sci-fi game UI and 3D maps for Roblox](https://x.com/MyCodeCoach/status/2107267599843422699) — @MyCodeCoach — Sci-fi game UI and 3D map generation the author credits to Fable 5.5, imported directly into Roblox.
+- [GTA-style game in the browser](https://x.com/oalanicolas/status/2107803303832936679) — @oalanicolas — A GTA-style open-world game running fully in the browser that the author says they made with Fable 5.5 and Opus 5.5.
+- [Static 3D model to sword combat set](https://x.com/romance0x/status/2107770247893623240) — @romance0x — A sword combat set, including a spin slash, that the author says Fable 5.5 made from one static Tripo 3D model in a T-pose.
 
 ### Films
 
@@ -127,6 +132,11 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [How being an AI model feels from the inside](https://x.com/blueemi99/status/2106397329653719115) — @blueemi99 — A one-shot film the author titles as Fable 5.5 showing how being an AI model feels from the inside.
 - [Black hole renderer from scratch](https://x.com/imjustnewatai/status/2106925762582323550) — @imjustnewatai — A Python black-hole renderer the author says Claude Fable 5.5 wrote from scratch after they asked for the hardest edit, bending each pixel as a light ray around a non-rotating black hole, with no game engine or stock footage.
 - [Fastlane vs Relay explainer](https://x.com/EndrewBiz/status/2106806557753106841) — @EndrewBiz — An explainer video the author says they asked Fable 5.5 to make about the fight between Fastlane and Relay.
+- [Navier–Stokes proof in eight steps](https://x.com/imjustnewatai/status/2107590323128193174) — @imjustnewatai — A five-minute 3D video the author says Claude Fable 5.5 made when asked to explain OpenAI's Navier–Stokes proof, laid out in eight steps.
+- [Zeta zero-free strip proof explainer](https://x.com/imjustnewatai/status/2107615459822453187) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's quasi-Riemann hypothesis proof about zeros of zeta.
+- [Free group factor problem explainer](https://x.com/imjustnewatai/status/2107625700307960144) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's proof on the free group factor problem.
+- [Unique Games Conjecture proof explainer](https://x.com/imjustnewatai/status/2107618885575053818) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's Unique Games Conjecture proof.
+- [Hodge conjecture proof explainer](https://x.com/imjustnewatai/status/2107622524615832047) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's Hodge conjecture proof for a family of shapes.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
