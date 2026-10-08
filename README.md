@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 88 entries, 9 interactive, 79 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 96 entries, 10 interactive, 86 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-88 entries (9 interactive / games, 79 videos). Last updated 2026-10-07.
+96 entries (10 interactive / games, 86 videos). Last updated 2026-10-08.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 88 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 96 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -45,10 +45,11 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 - [POKERMON: Pokémon x Balatro](https://x.com/anshuc/status/2107180724399075488) — @anshuc — A Pokémon x Balatro card game the author says Fable 5.5 one-shot in one hour after they got access, including mechanics, visuals, music, and the demo video. **[Live demo](https://pokermon.anshu.dev)**
 - [NIGHTSHIFT — Neon Circuit](https://x.com/Armaan_Jain123/status/2107251677615300969) — @Armaan_Jain123 — A browser game the author says Fable 5.5 made in one shot, with sound. **[Live demo](https://drift.hexclave.app)**
 - [Fan product page for OpenAI Dots](https://x.com/JaydenDavisNC/status/2107224501415277040) — @JaydenDavisNC — A fan-made product page for OpenAI Dots that the author says they built using Fable 5.5 and its Blender capabilities. **[Live demo](https://dots-fan-concept.inkwave.workers.dev)**
+- [Sealed rainforest in three.js (Silva Minima)](https://x.com/RobinDenmark/status/2108194732744888801) — @RobinDenmark — A sealed montane rainforest in three.js that the author says Fable 5.5 created over about 14 hours. **[Live demo](https://silva-minima.vercel.app/)**
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06 and 2026-10-07), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 69 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, and 2026-10-08), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 86 entries.
 
 ### Motion design and code-drawn animation
 
@@ -93,6 +94,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Claude vs GPT](https://x.com/notjazii/status/2107497752217460896) — @notjazii — A Claude vs GPT animation with sound that the author says Fable 5.5 made with code on high reasoning.
 - [Reference recreation in under an hour](https://x.com/notdwd/status/2107816799840690589) — @notdwd — A recreation of a reference motion piece that the author says Fable 5.5 made in less than one hour from a skill and a prompt.
 - [JavaScript IK animation in the wind](https://x.com/adam_fresko/status/2107637770873417894) — @adam_fresko — An animation made entirely in JavaScript, with IK that reacts to wind and no 3D models or 2D sprites, which the author says they tested during one day of Fable 5.5 access.
+- [Max-effort video](https://x.com/mikeswarms/status/2108066999590908018) — @mikeswarms — A video the author says they made with Fable 5.5 on max effort, noting an API cost of $68.
+- [Human history in scribbles](https://x.com/oalanicolas/status/2107958931230241037) — @oalanicolas — An 88-second film across 16 eras that the author says they asked Fable 5.5 to tell as the history of humanity in scribbles, with period art techniques and music that change by era.
 
 ### Interactive 3D
 
@@ -111,6 +114,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Sci-fi game UI and 3D maps for Roblox](https://x.com/MyCodeCoach/status/2107267599843422699) — @MyCodeCoach — Sci-fi game UI and 3D map generation the author credits to Fable 5.5, imported directly into Roblox.
 - [GTA-style game in the browser](https://x.com/oalanicolas/status/2107803303832936679) — @oalanicolas — A GTA-style open-world game running fully in the browser that the author says they made with Fable 5.5 and Opus 5.5.
 - [Static 3D model to sword combat set](https://x.com/romance0x/status/2107770247893623240) — @romance0x — A sword combat set, including a spin slash, that the author says Fable 5.5 made from one static Tripo 3D model in a T-pose.
+- [Minecraft clone oneshot](https://x.com/blueemi99/status/2108221060655055242) — @blueemi99 — A Minecraft clone the author says Fable 5.5 oneshot in under an hour, including UI, graphics, mobs, biomes, caves, and items.
+- [Four-model 3D comparison including Fable 5.5](https://x.com/SPAC89/status/2107928401516400827) — @SPAC89 — A side-by-side 3D comparison the author presents after testing Grok 4.7 XHigh, Haiku 5.5 Max, Fable 5.5, and GPT-6.1 Sol Ultra.
 
 ### Films
 
@@ -137,6 +142,9 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Free group factor problem explainer](https://x.com/imjustnewatai/status/2107625700307960144) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's proof on the free group factor problem.
 - [Unique Games Conjecture proof explainer](https://x.com/imjustnewatai/status/2107618885575053818) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's Unique Games Conjecture proof.
 - [Hodge conjecture proof explainer](https://x.com/imjustnewatai/status/2107622524615832047) — @imjustnewatai — A two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's Hodge conjecture proof for a family of shapes.
+- [OpenAI 722 papers visualization](https://x.com/Kris_2233/status/2108046188125516246) — @Kris_2233 — A visualization of OpenAI's 722 papers that the author attributes to Fable 5.5.
+- [Erdős arithmetic-progressions proof explainer](https://x.com/imjustnewatai/status/2108021409461244371) — @imjustnewatai — A roughly two-minute narrated 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's 198-page proof of a 50-year-old Erdős conjecture on arithmetic progressions.
+- [π irrationality-exponent proof explainer](https://x.com/imjustnewatai/status/2107970825542345211) — @imjustnewatai — A narrated roughly two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's 23-page proof that the irrationality exponent of π is exactly 2.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
