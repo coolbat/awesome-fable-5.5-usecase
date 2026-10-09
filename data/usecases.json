@@ -1325,5 +1325,33 @@
     "stars": null,
     "notes": "Verified 2026-10-08 via built-in X tools. Community attribution only. Quote: \"I asked Claude Fable 5.5 to explain OpenAI's new 23-page proof about π.\". Native video on the post.",
     "added": "2026-10-08"
+  },
+  {
+    "id": "x-yanqingcheng-flash-animation",
+    "title": "Millennial Flash-style animation",
+    "url": "https://x.com/YanqingCheng/status/2108296567166042404",
+    "demo_url": null,
+    "description": "A roughly 100-second animation in peak 00s Flash style that the author says they asked Fable 5.5 to one-shot.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@YanqingCheng",
+    "stars": null,
+    "notes": "Verified 2026-10-09 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I asked fable 5.5 to one-shot an animation in peak 00s flash style\" Native video, about 100 seconds.",
+    "added": "2026-10-09"
+  },
+  {
+    "id": "x-finnatsea-early-access-video",
+    "title": "Early-access video",
+    "url": "https://x.com/finnatsea/status/2108489320957137300",
+    "demo_url": null,
+    "description": "An 11-minute video that the author says Fable 5.5 made after they got early access.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "film",
+    "author": "@finnatsea",
+    "stars": null,
+    "notes": "Verified 2026-10-09 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I got early access to Fable 5.5 and it made this\" Native video, about 11 minutes.",
+    "added": "2026-10-09"
   }
 ]

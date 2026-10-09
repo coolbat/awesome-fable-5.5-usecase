@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
-  <title id="title">The 96 Fable 5.5 cases</title>
-  <desc id="desc">The full list of 96 cases, with the same titles and original links.</desc>
+  <title id="title">The 98 Fable 5.5 cases</title>
+  <desc id="desc">The full list of 98 cases, with the same titles and original links.</desc>
   <rect width="1200" height="140" rx="28" fill="#16130f"/>
   <circle cx="48" cy="70" r="5" fill="#2a241e"/>
   <circle cx="48" cy="98" r="5" fill="#2a241e"/>
   <text x="80" y="58" fill="#c4552a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">THE LIST</text>
-  <text x="80" y="102" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="40" font-weight="650">Ninety-six sourced cases</text>
+  <text x="80" y="102" fill="#f6f1e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="40" font-weight="650">Ninety-eight sourced cases</text>
 </svg>
