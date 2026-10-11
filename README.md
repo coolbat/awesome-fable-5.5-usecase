@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 98 entries, 10 interactive, 88 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 101 entries, 10 interactive, 91 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-98 entries (10 interactive / games, 88 videos). Last updated 2026-10-09.
+101 entries (10 interactive / games, 91 videos). Last updated 2026-10-11.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 98 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 101 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -49,7 +49,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, and 2026-10-09), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 88 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, and 2026-10-10, rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 91 entries.
 
 ### Motion design and code-drawn animation
 
@@ -117,6 +117,9 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Static 3D model to sword combat set](https://x.com/romance0x/status/2107770247893623240) — @romance0x — A sword combat set, including a spin slash, that the author says Fable 5.5 made from one static Tripo 3D model in a T-pose.
 - [Minecraft clone oneshot](https://x.com/blueemi99/status/2108221060655055242) — @blueemi99 — A Minecraft clone the author says Fable 5.5 oneshot in under an hour, including UI, graphics, mobs, biomes, caves, and items.
 - [Four-model 3D comparison including Fable 5.5](https://x.com/SPAC89/status/2107928401516400827) — @SPAC89 — A side-by-side 3D comparison the author presents after testing Grok 4.7 XHigh, Haiku 5.5 Max, Fable 5.5, and GPT-6.1 Sol Ultra.
+- [Minecraft-style build with weather and mobs](https://x.com/notjazii/status/2108590346309706221) — @notjazii — A Minecraft-style game the author says Fable 5.5 made once it was routing again, adding weather, mobs, suits, weapons and more, with a playable Claude artifact linked in the post. **[Play](https://claude.ai/artifact/7S2aKLz9sN33mk9sVFhfAc)**
+- [Rhythm game with its own sounds](https://x.com/blueemi99/status/2108912164253602187) — @blueemi99 — A rhythm game the author says they made with Opus and Fable 5.5, which made all the sounds and the game, with a playable Claude artifact linked in the post. **[Play](https://claude.ai/artifact/9KzwLCTm1Wr4ghvPmoM5sA)**
+- [Explorable Qingming scroll Rainbow Bridge](https://x.com/AISuperDomain/status/2108878175531110875) — @AISuperDomain — An explorable 3D scene of the Rainbow Bridge section of Along the River During the Qingming Festival, where you can switch scenes and camera angles, which the author credits to Fable 5.5's front-end skills (Chinese).
 
 ### Films
 

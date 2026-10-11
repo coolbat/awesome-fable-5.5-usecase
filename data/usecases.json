@@ -1353,5 +1353,47 @@
     "stars": null,
     "notes": "Verified 2026-10-09 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I got early access to Fable 5.5 and it made this\" Native video, about 11 minutes.",
     "added": "2026-10-09"
+  },
+  {
+    "id": "x-notjazii-minecraft-routing",
+    "title": "Minecraft-style build with weather and mobs",
+    "url": "https://x.com/notjazii/status/2108590346309706221",
+    "demo_url": "https://claude.ai/artifact/7S2aKLz9sN33mk9sVFhfAc",
+    "description": "A Minecraft-style game the author says Fable 5.5 made once it was routing again, adding weather, mobs, suits, weapons and more, with a playable Claude artifact linked in the post.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "game",
+    "author": "@notjazii",
+    "stars": null,
+    "notes": "Verified 2026-10-10 via built-in X tools; rechecked 2026-10-11 via api.fxtwitter.com (post live, native video). Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"fable 5.5 is routing again ... just look at this minecraft ... it added weather, mobs, suits, weapons and pretty much everything you can think of\" Native video, about 69 seconds.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "x-blueemi-rhythm-game",
+    "title": "Rhythm game with its own sounds",
+    "url": "https://x.com/blueemi99/status/2108912164253602187",
+    "demo_url": "https://claude.ai/artifact/9KzwLCTm1Wr4ghvPmoM5sA",
+    "description": "A rhythm game the author says they made with Opus and Fable 5.5, which made all the sounds and the game, with a playable Claude artifact linked in the post.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "game",
+    "author": "@blueemi99",
+    "stars": null,
+    "notes": "Verified 2026-10-10 via built-in X tools; rechecked 2026-10-11 via api.fxtwitter.com (post live, native video). Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I made this rhythm game with Opus and Fable 5.5 ... It made all the sounds and the game\" Native video, 30 seconds.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "x-aisuperdomain-rainbow-bridge",
+    "title": "Explorable Qingming scroll Rainbow Bridge",
+    "url": "https://x.com/AISuperDomain/status/2108878175531110875",
+    "demo_url": null,
+    "description": "An explorable 3D scene of the Rainbow Bridge section of Along the River During the Qingming Festival, where you can switch scenes and camera angles, which the author credits to Fable 5.5's front-end skills (Chinese).",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@AISuperDomain",
+    "stars": null,
+    "notes": "Verified 2026-10-10 via built-in X tools; rechecked 2026-10-11 via api.fxtwitter.com (post live, native video). Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5的前端能力真的超越Opus 5.5！ 这是生成的《清明上河图》虹桥部分的场景，可以任意切换场景和角度，还能任意探索！\" Native video, about 54 seconds. Different post from the same author's 2107401979265962490.",
+    "added": "2026-10-11"
   }
 ]
