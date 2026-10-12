@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 102 entries, 10 interactive, 92 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 105 entries, 10 interactive, 95 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-102 entries (10 interactive / games, 92 videos). Last updated 2026-10-12.
+105 entries (10 interactive / games, 95 videos). Last updated 2026-10-12.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 102 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 105 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -49,7 +49,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, and 2026-10-10, rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 92 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, and 2026-10-12; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 95 entries.
 
 ### Motion design and code-drawn animation
 
@@ -120,6 +120,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Minecraft-style build with weather and mobs](https://x.com/notjazii/status/2108590346309706221) — @notjazii — A Minecraft-style game the author says Fable 5.5 made once it was routing again, adding weather, mobs, suits, weapons and more, with a playable Claude artifact linked in the post. **[Play](https://claude.ai/artifact/7S2aKLz9sN33mk9sVFhfAc)**
 - [Rhythm game with its own sounds](https://x.com/blueemi99/status/2108912164253602187) — @blueemi99 — A rhythm game the author says they made with Opus and Fable 5.5, which made all the sounds and the game, with a playable Claude artifact linked in the post. **[Play](https://claude.ai/artifact/9KzwLCTm1Wr4ghvPmoM5sA)**
 - [Explorable Qingming scroll Rainbow Bridge](https://x.com/AISuperDomain/status/2108878175531110875) — @AISuperDomain — An explorable 3D scene of the Rainbow Bridge section of Along the River During the Qingming Festival, where you can switch scenes and camera angles, which the author credits to Fable 5.5's front-end skills (Chinese).
+- [Fish locomotion comparison: Fable 5.5 (or Opus 5.6) vs Opus 5.5 vs GPT-6 Astra](https://x.com/AI_Screening/status/2109323163016613932) — @AI_Screening — A side-by-side fish animation comparison that the author labels as Fable 5.5 (or Opus 5.6) versus Opus 5.5 and GPT-6 Astra, saying the Fable 5.5 result masters fluid locomotion and realistic fish anatomy.
+- [Three.js scene in a single HTML file](https://x.com/beyondwudan/status/2109432722250957122) — @beyondwudan — A Three.js scene in one HTML file that the author credits to Fable 5.5. The author's earlier quoted post says they got this output through Opus 5.5 routing.
 
 ### Films
 
@@ -151,6 +153,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [π irrationality-exponent proof explainer](https://x.com/imjustnewatai/status/2107970825542345211) — @imjustnewatai — A narrated roughly two-minute 3D animation the author says Claude Fable 5.5 returned when asked to explain OpenAI's 23-page proof that the irrationality exponent of π is exactly 2.
 - [Early-access video](https://x.com/finnatsea/status/2108489320957137300) — @finnatsea — An 11-minute video that the author says Fable 5.5 made after they got early access.
 - [Symphony in four movements, with video](https://x.com/imjustnewatai/status/2109191246715462070) — @imjustnewatai — A 9:38 symphony in four movements, with a video of every note, that the author says Claude Fable 5.5 produced in about four hours from two prompts: "Write a beautiful symphony" and "record a video of it when you're done."
+- [Hosanna: a musical where the model sings its own introduction](https://x.com/ChrisGPT/status/2109570757579649086) — @ChrisGPT — A religious musical called "Hosanna" that the authors say Fable 5.5 made when @ChrisGPT and @chetaslua asked it for a song introducing itself, using Suno for the music, ElevenLabs for the vocals, and a synchronized Three.js music video.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 

@@ -1395,5 +1395,61 @@
     "stars": null,
     "notes": "Verified 2026-10-10 via built-in X tools; rechecked 2026-10-11 via api.fxtwitter.com (post live, native video). Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5的前端能力真的超越Opus 5.5！ 这是生成的《清明上河图》虹桥部分的场景，可以任意切换场景和角度，还能任意探索！\" Native video, about 54 seconds. Different post from the same author's 2107401979265962490.",
     "added": "2026-10-11"
+  },
+  {
+    "id": "x-imjustnewatai-symphony",
+    "title": "Symphony in four movements, with video",
+    "url": "https://x.com/imjustnewatai/status/2109191246715462070",
+    "demo_url": null,
+    "description": "A 9:38 symphony in four movements, with a video of every note, that the author says Claude Fable 5.5 produced in about four hours from two prompts: \"Write a beautiful symphony\" and \"record a video of it when you're done.\"",
+    "source": "x",
+    "category": "videos",
+    "video_type": "film",
+    "author": "@imjustnewatai",
+    "stars": null,
+    "notes": "Verified 2026-10-12 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Two prompts to Claude Fable 5.5: \\\"Write a beautiful symphony\\\" and \\\"record a video of it when you're done.\\\"\" Native video, about 9 minutes 38 seconds.",
+    "added": "2026-10-12"
+  },
+  {
+    "id": "x-ai-screening-fish-comparison",
+    "title": "Fish locomotion comparison: Fable 5.5 (or Opus 5.6) vs Opus 5.5 vs GPT-6 Astra",
+    "url": "https://x.com/AI_Screening/status/2109323163016613932",
+    "demo_url": null,
+    "description": "A side-by-side fish animation comparison that the author labels as Fable 5.5 (or Opus 5.6) versus Opus 5.5 and GPT-6 Astra, saying the Fable 5.5 result masters fluid locomotion and realistic fish anatomy.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@AI_Screening",
+    "stars": null,
+    "notes": "Verified 2026-10-12 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. The author hedges the model name. Quote: \"Fable 5.5(or Opus 5.6) vs. Opus 5.5 vs. GPT-6 Astra\" and \"Fable 5.5 mastering fluid locomotion and realistic fish anotomy.\" Native video, about 16 seconds.",
+    "added": "2026-10-12"
+  },
+  {
+    "id": "x-beyondwudan-threejs-single-html",
+    "title": "Three.js scene in a single HTML file",
+    "url": "https://x.com/beyondwudan/status/2109432722250957122",
+    "demo_url": null,
+    "description": "A Three.js scene in one HTML file that the author credits to Fable 5.5. The author's earlier quoted post says they got this output through Opus 5.5 routing.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@beyondwudan",
+    "stars": null,
+    "notes": "Verified 2026-10-12 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 and @threejs in a single HTML file!\" Edited post; original id 2109429249002393778. Quotes the author's 2109305196983751016, which compares Opus 5.5 outputs. Native video, 48 seconds.",
+    "added": "2026-10-12"
+  },
+  {
+    "id": "x-chrisgpt-hosanna",
+    "title": "Hosanna: a musical where the model sings its own introduction",
+    "url": "https://x.com/ChrisGPT/status/2109570757579649086",
+    "demo_url": null,
+    "description": "A religious musical called \"Hosanna\" that the authors say Fable 5.5 made when @ChrisGPT and @chetaslua asked it for a song introducing itself, using Suno for the music, ElevenLabs for the vocals, and a synchronized Three.js music video.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "film",
+    "author": "@ChrisGPT",
+    "stars": null,
+    "notes": "Verified 2026-10-12 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Me and @chetaslua just asked Fable 5.5 to create a song introducing itself, and it made a full-blown religious musical called \\\"Hosanna\\\"\". Edited post; original id 2109570631658303782. Native video, about 76 seconds.",
+    "added": "2026-10-12"
   }
 ]
