@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 105 entries, 10 interactive, 95 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 109 entries, 10 interactive, 99 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-105 entries (10 interactive / games, 95 videos). Last updated 2026-10-12.
+109 entries (10 interactive / games, 99 videos). Last updated 2026-10-13.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 105 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 109 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -49,7 +49,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, and 2026-10-12; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 95 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 99 entries.
 
 ### Motion design and code-drawn animation
 
@@ -76,6 +76,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Sixteen Starships launch animated SVG](https://x.com/olddonkeyblog/status/2106507742454403485) — @olddonkeyblog — An animated SVG embedded in HTML of sixteen Starships launching, separating stages, and entering space, which the author attributes to Fable 5.5 Max.
 - [Pelican on a bicycle, Fable 5.5 Max](https://x.com/olddonkeyblog/status/2106507429265756165) — @olddonkeyblog — A pelican-on-a-bicycle test piece the author attributes to Fable 5.5 Max.
 - [Pelican riding a bicycle SVG](https://x.com/olddonkeyblog/status/2105842745189556672) — @olddonkeyblog — A self-contained SVG of a pelican riding a bicycle that the author attributes to Fable 5.5 on max effort.
+- [Penguin riding a donkey SVG](https://x.com/imjustnewatai/status/2109821687151690008) — @imjustnewatai — An SVG of a penguin riding a donkey that the author says they got after asking Claude Fable 5.5's latest checkpoint for it.
+- [Unicorn in TikZ](https://x.com/imjustnewatai/status/2109824086582890931) — @imjustnewatai — A unicorn drawn in TikZ that the author says they asked Fable 5.5 to create.
 - [What would make Fable 5.5 better](https://x.com/DAssetBuzz/status/2106505100575592838) — @DAssetBuzz — A roughly 25-second video the author says they asked Fable 5.5 to make about what would make it better.
 - [40-second brand launch ad](https://x.com/0xashtonx/status/2106421702783914423) — @0xashtonx — A 40-second launch ad for the author's own brand that they say they asked Fable 5.5 to make.
 - [Imagined Switch 3 product demo](https://x.com/mathisbuilds/status/2106407842240418097) — @mathisbuilds — A product-demo style presentation the author says Fable 5.5 Max made after they asked it to imagine the Switch 3, working for about four hours.
@@ -122,6 +124,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Explorable Qingming scroll Rainbow Bridge](https://x.com/AISuperDomain/status/2108878175531110875) — @AISuperDomain — An explorable 3D scene of the Rainbow Bridge section of Along the River During the Qingming Festival, where you can switch scenes and camera angles, which the author credits to Fable 5.5's front-end skills (Chinese).
 - [Fish locomotion comparison: Fable 5.5 (or Opus 5.6) vs Opus 5.5 vs GPT-6 Astra](https://x.com/AI_Screening/status/2109323163016613932) — @AI_Screening — A side-by-side fish animation comparison that the author labels as Fable 5.5 (or Opus 5.6) versus Opus 5.5 and GPT-6 Astra, saying the Fable 5.5 result masters fluid locomotion and realistic fish anatomy.
 - [Three.js scene in a single HTML file](https://x.com/beyondwudan/status/2109432722250957122) — @beyondwudan — A Three.js scene in one HTML file that the author credits to Fable 5.5. The author's earlier quoted post says they got this output through Opus 5.5 routing.
+- [Stretchable glowing jellyfish, Fable 5.5 Xhigh vs GPT-6.1 Sol Ultra](https://x.com/romance0x/status/2109704094126682274) — @romance0x — A side-by-side clip of one glowing jellyfish you can stretch, slice into pieces, and watch pull itself back together. The author presents one side as Fable 5.5 Xhigh.
 
 ### Films
 
@@ -154,6 +157,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Early-access video](https://x.com/finnatsea/status/2108489320957137300) — @finnatsea — An 11-minute video that the author says Fable 5.5 made after they got early access.
 - [Symphony in four movements, with video](https://x.com/imjustnewatai/status/2109191246715462070) — @imjustnewatai — A 9:38 symphony in four movements, with a video of every note, that the author says Claude Fable 5.5 produced in about four hours from two prompts: "Write a beautiful symphony" and "record a video of it when you're done."
 - [Hosanna: a musical where the model sings its own introduction](https://x.com/ChrisGPT/status/2109570757579649086) — @ChrisGPT — A religious musical called "Hosanna" that the authors say Fable 5.5 made when @ChrisGPT and @chetaslua asked it for a song introducing itself, using Suno for the music, ElevenLabs for the vocals, and a synchronized Three.js music video.
+- [From "strawberry" to a Millennium Prize claim](https://x.com/imjustnewatai/status/2109811005395996875) — @imjustnewatai — A video about AI breakthroughs that the author says Claude Fable 5.5 made end to end: it researched the breakthroughs, wrote the script, built 21 3D scenes, composed the music in code, and rendered 3,240 frames.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 

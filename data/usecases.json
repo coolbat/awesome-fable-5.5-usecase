@@ -1451,5 +1451,61 @@
     "stars": null,
     "notes": "Verified 2026-10-12 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Me and @chetaslua just asked Fable 5.5 to create a song introducing itself, and it made a full-blown religious musical called \\\"Hosanna\\\"\". Edited post; original id 2109570631658303782. Native video, about 76 seconds.",
     "added": "2026-10-12"
+  },
+  {
+    "id": "x-imjustnewatai-penguin-donkey-svg",
+    "title": "Penguin riding a donkey SVG",
+    "url": "https://x.com/imjustnewatai/status/2109821687151690008",
+    "demo_url": null,
+    "description": "An SVG of a penguin riding a donkey that the author says they got after asking Claude Fable 5.5's latest checkpoint for it.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@imjustnewatai",
+    "stars": null,
+    "notes": "Verified 2026-10-13 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I asked Claude Fable 5.5’s latest checkpoint for an SVG of a penguin  riding a donkey.\" Edited post; original id 2109821390778220857. Native photo of the SVG output.",
+    "added": "2026-10-13"
+  },
+  {
+    "id": "x-imjustnewatai-unicorn-tikz",
+    "title": "Unicorn in TikZ",
+    "url": "https://x.com/imjustnewatai/status/2109824086582890931",
+    "demo_url": null,
+    "description": "A unicorn drawn in TikZ that the author says they asked Fable 5.5 to create.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@imjustnewatai",
+    "stars": null,
+    "notes": "Verified 2026-10-13 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I asked fable 5.5 to create a unicorn in tikz.\" Native photo of the output. A separate post from the same author (2109826491496239613) compares Opus 5.5 and Fable 5.5 unicorns and is not listed.",
+    "added": "2026-10-13"
+  },
+  {
+    "id": "x-romance0x-jellyfish-vs",
+    "title": "Stretchable glowing jellyfish, Fable 5.5 Xhigh vs GPT-6.1 Sol Ultra",
+    "url": "https://x.com/romance0x/status/2109704094126682274",
+    "demo_url": null,
+    "description": "A side-by-side clip of one glowing jellyfish you can stretch, slice into pieces, and watch pull itself back together. The author presents one side as Fable 5.5 Xhigh.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@romance0x",
+    "stars": null,
+    "notes": "Verified 2026-10-13 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 Xhigh vs GPT-6.1 Sol Ultra. One glowing jellyfish you can stretch, slice into pieces and watch pull itself back together\". Native video, about 20 seconds. Side-by-side comparison; no benchmark claim copied.",
+    "added": "2026-10-13"
+  },
+  {
+    "id": "x-imjustnewatai-millennium-prize",
+    "title": "From \"strawberry\" to a Millennium Prize claim",
+    "url": "https://x.com/imjustnewatai/status/2109811005395996875",
+    "demo_url": null,
+    "description": "A video about AI breakthroughs that the author says Claude Fable 5.5 made end to end: it researched the breakthroughs, wrote the script, built 21 3D scenes, composed the music in code, and rendered 3,240 frames.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "film",
+    "author": "@imjustnewatai",
+    "stars": null,
+    "notes": "Verified 2026-10-13 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Claude fable 5.5 made this entire video.\" Native video, about 108 seconds.",
+    "added": "2026-10-13"
   }
 ]
