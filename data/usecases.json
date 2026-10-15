@@ -1507,5 +1507,18 @@
     "stars": null,
     "notes": "Verified 2026-10-13 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Claude fable 5.5 made this entire video.\" Native video, about 108 seconds.",
     "added": "2026-10-13"
+  },
+  {
+    "id": "x-designwkarthick-sam-altman-clay-bust",
+    "title": "Sam Altman clay bust in 3D",
+    "url": "https://x.com/designwkarthick/status/2110449490901848483",
+    "demo_url": "https://claude.ai/artifact/5NR9DHB8zzWMr3Lo9o3aSK",
+    "description": "An interactive 3D clay bust of Sam Altman with front, side, studio, live-light, clay, and turntable views. The author shares it as a Claude artifact and says Claude Fable 5.5 did an amazing job, in a quote of their earlier ChatGPT Dots version.",
+    "source": "x",
+    "category": "games-3d",
+    "author": "@designwkarthick",
+    "stars": null,
+    "notes": "Verified 2026-10-15 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Claude Fable 5.5 - did an amazing job here\". Screenshot on the post plus a Claude artifact demo link. Quotes the author's own Dots version, 2110404466629570648.",
+    "added": "2026-10-15"
   }
 ]

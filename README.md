@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 109 entries, 10 interactive, 99 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 110 entries, 11 interactive, 99 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-109 entries (10 interactive / games, 99 videos). Last updated 2026-10-13.
+110 entries (11 interactive / games, 99 videos). Last updated 2026-10-15.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 109 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 110 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -46,6 +46,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 - [NIGHTSHIFT — Neon Circuit](https://x.com/Armaan_Jain123/status/2107251677615300969) — @Armaan_Jain123 — A browser game the author says Fable 5.5 made in one shot, with sound. **[Live demo](https://drift.hexclave.app)**
 - [Fan product page for OpenAI Dots](https://x.com/JaydenDavisNC/status/2107224501415277040) — @JaydenDavisNC — A fan-made product page for OpenAI Dots that the author says they built using Fable 5.5 and its Blender capabilities. **[Live demo](https://dots-fan-concept.inkwave.workers.dev)**
 - [Sealed rainforest in three.js (Silva Minima)](https://x.com/RobinDenmark/status/2108194732744888801) — @RobinDenmark — A sealed montane rainforest in three.js that the author says Fable 5.5 created over about 14 hours. **[Live demo](https://silva-minima.vercel.app/)**
+- [Sam Altman clay bust in 3D](https://x.com/designwkarthick/status/2110449490901848483) — @designwkarthick — An interactive 3D clay bust of Sam Altman with front, side, studio, live-light, clay, and turntable views. The author shares it as a Claude artifact and says Claude Fable 5.5 did an amazing job, in a quote of their earlier ChatGPT Dots version. **[Live demo](https://claude.ai/artifact/5NR9DHB8zzWMr3Lo9o3aSK)**
 
 ## Videos from X
 
