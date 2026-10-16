@@ -1520,5 +1520,61 @@
     "stars": null,
     "notes": "Verified 2026-10-15 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Claude Fable 5.5 - did an amazing job here\". Screenshot on the post plus a Claude artifact demo link. Quotes the author's own Dots version, 2110404466629570648.",
     "added": "2026-10-15"
+  },
+  {
+    "id": "x-chetaslua-pure-math-music",
+    "title": "Pure math music visualization",
+    "url": "https://x.com/chetaslua/status/2111060420505268729",
+    "demo_url": null,
+    "description": "A pure-math music and visualization piece the author labels as Fable 5.5, noting grey testing that routes Opus 5.5 to Fable 5.5 / Claude next model, with a knowledge-cutoff check against VoxelBench.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@chetaslua",
+    "stars": null,
+    "notes": "Verified 2026-10-16 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 : pure math for music and visualization\". Native video. Quotes measure_plan 2110797886044700906; media is on the chetaslua post.",
+    "added": "2026-10-16"
+  },
+  {
+    "id": "x-chetaslua-music-sound-sync",
+    "title": "Music and sound-effect sync to video",
+    "url": "https://x.com/chetaslua/status/2111087834329399635",
+    "demo_url": null,
+    "description": "A code-drawn piece the author labels as Fable 5.5, saying music and sound-effect sync to video is better than what Opus can draw.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@chetaslua",
+    "stars": null,
+    "notes": "Verified 2026-10-16 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 : we known opus can draw but little detail like music and sound effect sync to video is better\". Native video. Quotes the author's own 2110808933074092371.",
+    "added": "2026-10-16"
+  },
+  {
+    "id": "x-mr-salio-nyc-cinematic",
+    "title": "New York cinematic scene, one shot in code",
+    "url": "https://x.com/Mr_Salio/status/2111097153074470950",
+    "demo_url": null,
+    "description": "A New York cinematic scene with reflections and lighting that the author says Fable 5.5 made in one shot, everything in code.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@Mr_Salio",
+    "stars": null,
+    "notes": "Verified 2026-10-16 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 is actually treffying / This entire cinematic scene was in ONE SHOT everything is code\". Native video.",
+    "added": "2026-10-16"
+  },
+  {
+    "id": "x-aisuperdomain-pandora-game",
+    "title": "Pandora planet game",
+    "url": "https://x.com/AISuperDomain/status/2111011773369512314",
+    "demo_url": null,
+    "description": "A game set on Pandora that the author says Fable 5.5 made (Chinese).",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@AISuperDomain",
+    "stars": null,
+    "notes": "Verified 2026-10-16 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5做的游戏，带你来到潘多拉星球！\". Native video.",
+    "added": "2026-10-16"
   }
 ]

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 110 entries, 11 interactive, 99 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 114 entries, 11 interactive, 103 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-110 entries (11 interactive / games, 99 videos). Last updated 2026-10-15.
+114 entries (11 interactive / games, 103 videos). Last updated 2026-10-16.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 110 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 114 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -50,7 +50,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 99 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 103 entries.
 
 ### Motion design and code-drawn animation
 
@@ -101,6 +101,10 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Human history in scribbles](https://x.com/oalanicolas/status/2107958931230241037) — @oalanicolas — An 88-second film across 16 eras that the author says they asked Fable 5.5 to tell as the history of humanity in scribbles, with period art techniques and music that change by era.
 - [Millennial Flash-style animation](https://x.com/YanqingCheng/status/2108296567166042404) — @YanqingCheng — A roughly 100-second animation in peak 00s Flash style that the author says they asked Fable 5.5 to one-shot.
 
+- [Pure math music visualization](https://x.com/chetaslua/status/2111060420505268729) — @chetaslua — A pure-math music and visualization piece the author labels as Fable 5.5, noting grey testing that routes Opus 5.5 to Fable 5.5 / Claude next model, with a knowledge-cutoff check against VoxelBench.
+- [Music and sound-effect sync to video](https://x.com/chetaslua/status/2111087834329399635) — @chetaslua — A code-drawn piece the author labels as Fable 5.5, saying music and sound-effect sync to video is better than what Opus can draw.
+- [New York cinematic scene, one shot in code](https://x.com/Mr_Salio/status/2111097153074470950) — @Mr_Salio — A New York cinematic scene with reflections and lighting that the author says Fable 5.5 made in one shot, everything in code.
+
 ### Interactive 3D
 
 - [Voxel build of yourself](https://x.com/blueemi99/status/2105804692811137242) — @blueemi99 — A voxel scene the author titles as a Fable 5.5 build of yourself, with the hedge that it might be the new model because it looks better than Fable 5.1 and Opus 5.5.
@@ -126,6 +130,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Fish locomotion comparison: Fable 5.5 (or Opus 5.6) vs Opus 5.5 vs GPT-6 Astra](https://x.com/AI_Screening/status/2109323163016613932) — @AI_Screening — A side-by-side fish animation comparison that the author labels as Fable 5.5 (or Opus 5.6) versus Opus 5.5 and GPT-6 Astra, saying the Fable 5.5 result masters fluid locomotion and realistic fish anatomy.
 - [Three.js scene in a single HTML file](https://x.com/beyondwudan/status/2109432722250957122) — @beyondwudan — A Three.js scene in one HTML file that the author credits to Fable 5.5. The author's earlier quoted post says they got this output through Opus 5.5 routing.
 - [Stretchable glowing jellyfish, Fable 5.5 Xhigh vs GPT-6.1 Sol Ultra](https://x.com/romance0x/status/2109704094126682274) — @romance0x — A side-by-side clip of one glowing jellyfish you can stretch, slice into pieces, and watch pull itself back together. The author presents one side as Fable 5.5 Xhigh.
+- [Pandora planet game](https://x.com/AISuperDomain/status/2111011773369512314) — @AISuperDomain — A game set on Pandora that the author says Fable 5.5 made (Chinese).
 
 ### Films
 
