@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 127 entries, 11 interactive, 116 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 133 entries, 12 interactive, 121 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-127 entries (11 interactive / games, 116 videos). Last updated 2026-10-18.
+133 entries (12 interactive / games, 121 videos). Last updated 2026-10-19.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 127 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 133 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -47,10 +47,11 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 - [Fan product page for OpenAI Dots](https://x.com/JaydenDavisNC/status/2107224501415277040) — @JaydenDavisNC — A fan-made product page for OpenAI Dots that the author says they built using Fable 5.5 and its Blender capabilities. **[Live demo](https://dots-fan-concept.inkwave.workers.dev)**
 - [Sealed rainforest in three.js (Silva Minima)](https://x.com/RobinDenmark/status/2108194732744888801) — @RobinDenmark — A sealed montane rainforest in three.js that the author says Fable 5.5 created over about 14 hours. **[Live demo](https://silva-minima.vercel.app/)**
 - [Sam Altman clay bust in 3D](https://x.com/designwkarthick/status/2110449490901848483) — @designwkarthick — An interactive 3D clay bust of Sam Altman with front, side, studio, live-light, clay, and turntable views. The author shares it as a Claude artifact and says Claude Fable 5.5 did an amazing job, in a quote of their earlier ChatGPT Dots version. **[Live demo](https://claude.ai/artifact/5NR9DHB8zzWMr3Lo9o3aSK)**
+- [Screenshot Heist, a little browser game](https://x.com/dummerspast39/status/2111941623034634356) — @dummerspast39 — A small browser game the author says they made with Fable 5.5 in Claude.ai, with a play video on the post. **[Live demo](https://screenshot-heist-oct18.dummerspast39.chatgpt.site/)**
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 116 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 121 entries.
 
 ### Motion design and code-drawn animation
 
@@ -111,6 +112,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Boat floating in a garden, one shot](https://x.com/pankajkumar_dev/status/2111518872272814233) — @pankajkumar_dev — A night scene of a boat floating in a garden, with water reflections, trees, mountains, birds, a bridge, and lights, which the author says Fable 5.5 made in one go from a short request.
 - [Spider-Man scene from scratch in code](https://x.com/Mr_Salio/status/2111590674961154433) — @Mr_Salio — A Spider-Man scene in the style of a game cinematic that the author says Fable 5.5 built from scratch using only code, over about 7 hours. The author says the output came through Opus 5.5 routing.
 - [PS1 boot into Crash Bash, drawn in code](https://x.com/kaa3bi/status/2111792945712255068) — @kaa3bi — A recreation of a PlayStation boot sequence going into Crash Bash, which the author says Fable 5.5 drew frame by frame in code.
+- [Tesla Roadster landing page, Fable 5.5 vs Fable 5.1](https://x.com/kaif9998/status/2112166153250607201) — @kaif9998 — A side-by-side of two Tesla Roadster landing pages from the same prompt. The author says Fable 5.1 did a decent job and Fable 5.5 made the stronger page.
+- [The Last Train Home](https://x.com/pankajkumar_dev/status/2112176644018626840) — @pankajkumar_dev — A cinematic Japanese night scene with lantern-lit streets, rain-soaked pavement, and a train passing through the city, which the author says they asked Fable 5.5 to create.
 
 ### Interactive 3D
 
@@ -142,6 +145,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Minecraft in a single HTML file](https://x.com/dummerspast39/status/2111464346010152967) — @dummerspast39 — A Minecraft-style game in one HTML file that the author titles as Fable 5.5.
 - [Zelda in the Pokemon world, one shot](https://x.com/MozeTech/status/2111652513846026593) — @MozeTech — A crossover game that puts Zelda: Breath of the Wild in a Pokemon-style world, where you fight Calamity Ganon, collect Korok seeds, and catch Pokemon. The author says they made it in one shot with Fable 5.5 through rerouting.
 - [Hogwarts Castle voxel in a single HTML file](https://x.com/dummerspast39/status/2111545177949209014) — @dummerspast39 — A video of a Hogwarts Castle voxel build in one HTML file that the author says Fable 5.5 generated. The author says another model edited the video and voice-over.
+- [Voxel propaganda piece](https://x.com/dummerspast39/status/2111957286620930535) — @dummerspast39 — A voxel video the author says Claude Fable 5.5 produced after about two minutes of prompting.
 
 ### Films
 
@@ -177,6 +181,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [From "strawberry" to a Millennium Prize claim](https://x.com/imjustnewatai/status/2109811005395996875) — @imjustnewatai — A video about AI breakthroughs that the author says Claude Fable 5.5 made end to end: it researched the breakthroughs, wrote the script, built 21 3D scenes, composed the music in code, and rendered 3,240 frames.
 - [Launch video in Blender and ElevenLabs](https://x.com/chetaslua/status/2111157145102397817) — @chetaslua — A launch-style video that the author says Fable 5.5 made with pure Python code in Blender and ElevenLabs, after they only provided an X video of a launch.
 - [Celebration video for 5k GitHub stars](https://x.com/dummerspast39/status/2111671322015043759) — @dummerspast39 — A short celebration video for the Chat on steroids project reaching 5k GitHub stars, which the author says they made with Fable 5.5.
+- [Song generated completely in code](https://x.com/dummerspast39/status/2112085543563440223) — @dummerspast39 — A short music piece the author says Fable 5.5 generated completely in code.
+- ["2slimey type beat" in Python](https://x.com/dummerspast39/status/2112119732174303735) — @dummerspast39 — A beat the author says Fable 5.5 made with Python from the prompt "2slimey type beat". The author jokes that it sounds like Japanese dubstep, not the style they asked for.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
