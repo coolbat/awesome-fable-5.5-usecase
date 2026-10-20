@@ -1841,5 +1841,61 @@
     "stars": null,
     "notes": "Verified 2026-10-19 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"told it to give me a \\\"2slimey type beat\\\". It used phyton and created this.\" Native video, about 2 minutes 13 seconds.",
     "added": "2026-10-19"
+  },
+  {
+    "id": "x-dummerspast39-dyson-fragment",
+    "title": "Dyson Fragment, single HTML",
+    "url": "https://x.com/dummerspast39/status/2112275947634446639",
+    "demo_url": null,
+    "description": "A 91-second video piece titled Dyson Fragment, which the author says Fable 5.5 made as a single HTML file in about 1.5 hours.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@dummerspast39",
+    "stars": null,
+    "notes": "Verified 2026-10-20 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"fable 5.5 - Dyson Fragment, single html, 1.5h\" Native video, about 1 minute 31 seconds.",
+    "added": "2026-10-20"
+  },
+  {
+    "id": "x-dummerspast39-svg-horse-riding-astronaut",
+    "title": "SVG of a horse riding an astronaut",
+    "url": "https://x.com/dummerspast39/status/2112490492684296664",
+    "demo_url": null,
+    "description": "A short video of an SVG drawing of a horse riding an astronaut, which the author titles as Fable 5.5.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@dummerspast39",
+    "stars": null,
+    "notes": "Verified 2026-10-20 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 - SVG of horse riding astronaut\" Native video, about 15 seconds.",
+    "added": "2026-10-20"
+  },
+  {
+    "id": "x-luccacerf-character-workflow-factory",
+    "title": "Character workflow factory",
+    "url": "https://x.com/luccacerf/status/2112499975989190948",
+    "demo_url": null,
+    "description": "A screen video of a character workflow factory that the author says Fable 5.5 created for them. The author says it is almost finished and plans to share it when it is done.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "motion-design",
+    "author": "@luccacerf",
+    "stars": null,
+    "notes": "Verified 2026-10-20 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 created this character workflow factory for me. It's almost finished and I'm looking to share it when its done.\" Native video, about 33 seconds.",
+    "added": "2026-10-20"
+  },
+  {
+    "id": "x-sadalbert10-sad-albertx-the-movie",
+    "title": "Sad AlbertX The Movie",
+    "url": "https://x.com/SadAlbert10/status/2112259952224141654",
+    "demo_url": null,
+    "description": "A five-minute voxel movie with TTS voices that the author says they made, with Fable 5.5 credited as editor. The author credits Fish Audio for speech and Kreiin for the music.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "film",
+    "author": "@SadAlbert10",
+    "stars": null,
+    "notes": "Verified 2026-10-20 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Sad AlbertX The Movie brought to you by Fable 5.5 | I made this short 5 minutes movie using Voxel and TTS ... Editor: Fable 5.5\" Native video, about 5 minutes 2 seconds.",
+    "added": "2026-10-20"
   }
 ]
