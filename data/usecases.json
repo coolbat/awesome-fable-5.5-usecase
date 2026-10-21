@@ -1897,5 +1897,19 @@
     "stars": null,
     "notes": "Verified 2026-10-20 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Sad AlbertX The Movie brought to you by Fable 5.5 | I made this short 5 minutes movie using Voxel and TTS ... Editor: Fable 5.5\" Native video, about 5 minutes 2 seconds.",
     "added": "2026-10-20"
+  },
+  {
+    "id": "x-scottstts-luminescent-river-quiet-night",
+    "title": "Luminescent river on a quiet night",
+    "url": "https://x.com/scottstts/status/2112601036804243871",
+    "demo_url": null,
+    "description": "A 54-second video with sound of a glowing river on a quiet night, which the author says Fable 5.5 created.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@scottstts",
+    "stars": null,
+    "notes": "Verified 2026-10-21 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 created this beautiful luminescent river in a quiet night, sound on\" Native video, about 54 seconds.",
+    "added": "2026-10-21"
   }
 ]
