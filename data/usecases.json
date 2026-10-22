@@ -1911,5 +1911,33 @@
     "stars": null,
     "notes": "Verified 2026-10-21 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5 created this beautiful luminescent river in a quiet night, sound on\" Native video, about 54 seconds.",
     "added": "2026-10-21"
+  },
+  {
+    "id": "x-luccacerf-3d-character-factory-harness",
+    "title": "3D character factory harness",
+    "url": "https://x.com/luccacerf/status/2113025837565870162",
+    "demo_url": null,
+    "description": "A 103-second screen video of a 3D AI character pipeline from Tripo P2 to Blender, Cartwheel, Cascadeur, and the Unity CLI. The author says they built the character factory over two days with Fable 5.5 and multiple Opus 5.5 agents.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "motion-design",
+    "author": "@luccacerf",
+    "stars": null,
+    "notes": "Verified 2026-10-22 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"After 2 days of building  a character factory with Fable 5.5 w/ multiple opus 5.5 agents, I've finally hit a real 3D AI harness\" Native video, about 103 seconds.",
+    "added": "2026-10-22"
+  },
+  {
+    "id": "x-chetaslua-animated-focus-guide-adhd",
+    "title": "Animated focus guide for ADHD",
+    "url": "https://x.com/chetaslua/status/2113229122596163955",
+    "demo_url": null,
+    "description": "A 132-second animation of a focus guide by @thedankoe. The author says Opus 5.5 was routing to Fable 5.5 when they asked it to animate the article so they could learn it without distraction.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "animation",
+    "author": "@chetaslua",
+    "stars": null,
+    "notes": "Verified 2026-10-22 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"I was testing opus 5.5 few days ago when it was routing to Fable 5.5 , i gave it dan article said it to animate for my adhd\" Native video, about 132 seconds.",
+    "added": "2026-10-22"
   }
 ]
