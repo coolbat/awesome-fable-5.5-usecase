@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 140 entries, 12 interactive, 128 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 147 entries, 12 interactive, 135 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-140 entries (12 interactive / games, 128 videos). Last updated 2026-10-22.
+147 entries (12 interactive / games, 135 videos). Last updated 2026-10-23.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 140 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 147 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -51,7 +51,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 126 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 135 entries.
 
 ### Motion design and code-drawn animation
 
@@ -120,6 +120,13 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Luminescent river on a quiet night](https://x.com/scottstts/status/2112601036804243871) — @scottstts — A 54-second video with sound of a glowing river on a quiet night, which the author says Fable 5.5 created.
 - [3D character factory harness](https://x.com/luccacerf/status/2113025837565870162) — @luccacerf — A 103-second screen video of a 3D AI character pipeline from Tripo P2 to Blender, Cartwheel, Cascadeur, and the Unity CLI. The author says they built the character factory over two days with Fable 5.5 and multiple Opus 5.5 agents.
 - [Animated focus guide for ADHD](https://x.com/chetaslua/status/2113229122596163955) — @chetaslua — A 132-second animation of a focus guide by @thedankoe. The author says Opus 5.5 was routing to Fable 5.5 when they asked it to animate the article so they could learn it without distraction.
+- [Kimi K3.1 Pro vs Fable 5.5 SVG](https://x.com/chetaslua/status/2113503273361777086) — @chetaslua — A side-by-side SVG animation comparing Kimi K3.1 Pro and Fable 5.5 on a complex stacked-scene prompt. The author labels one side as Fable 5.5.
+- [SVG of Rick Sanchez vs Gemini 4 Carbon](https://x.com/dummerspast39/status/2113497132841799858) — @dummerspast39 — A dual-clip SVG comparison of Rick Sanchez that the author titles as Fable 5.5 versus Gemini 4 Carbon.
+- [SVG of Peter Griffin](https://x.com/dummerspast39/status/2113530679447433542) — @dummerspast39 — A roughly 17-second SVG animation of Peter Griffin that the author titles as a Fable 5.5 result, saying it looks like it came from a video model.
+- [Mona Lisa SVG](https://x.com/blueemi99/status/2113629882504925326) — @blueemi99 — A Mona Lisa SVG still that the author says was made by Fable 5.5 / Sonnet-Next.
+- [Fable 5.5 result vs Gemini 4 Carbon](https://x.com/kerneldroid/status/2113490604948967611) — @kerneldroid — A roughly 45-second video the author labels as a Fable 5.5 result and compares with their earlier Gemini 4 Carbon clip.
+- [Second Fable 5.5 result](https://x.com/kerneldroid/status/2113615429981933654) — @kerneldroid — A roughly 36-second video the author presents as a second result from Claude Fable 5.5.
+- [Fable vs Opus vs Sonnet vs Haiku one-shot](https://x.com/gmartidesign/status/2113463340387467554) — @gmartidesign — A roughly 12-second comparison video of the same prompt run one-shot on Haiku 5.5, Sonnet 5.5, Opus 5.5, and Fable 5.5, with the author reporting run times and costs for each.
 
 ### Interactive 3D
 
