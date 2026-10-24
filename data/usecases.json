@@ -2037,5 +2037,19 @@
     "stars": null,
     "notes": "Verified 2026-10-23 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote includes \"Fable 5.5: 25m 57s, $9.26\". Native video, about 12 seconds.",
     "added": "2026-10-23"
+  },
+  {
+    "id": "x-dummerspast39-h200-threejs",
+    "title": "H200 GPU in Three.js",
+    "url": "https://x.com/dummerspast39/status/2113749909065101494",
+    "demo_url": null,
+    "description": "A roughly 30-second video of an NVIDIA H200 GPU assembling in Three.js, which the author titles as Fable 5.5.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@dummerspast39",
+    "stars": null,
+    "notes": "Verified 2026-10-24 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5: H200 in Three.js\". Native video, about 30 seconds. 123 likes at intake.",
+    "added": "2026-10-24"
   }
 ]

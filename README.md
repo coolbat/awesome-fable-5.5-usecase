@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 147 entries, 12 interactive, 135 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 148 entries, 12 interactive, 136 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-147 entries (12 interactive / games, 135 videos). Last updated 2026-10-23.
+148 entries (12 interactive / games, 136 videos). Last updated 2026-10-24.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -51,7 +51,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 135 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 136 entries.
 
 ### Motion design and code-drawn animation
 
@@ -159,6 +159,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Zelda in the Pokemon world, one shot](https://x.com/MozeTech/status/2111652513846026593) — @MozeTech — A crossover game that puts Zelda: Breath of the Wild in a Pokemon-style world, where you fight Calamity Ganon, collect Korok seeds, and catch Pokemon. The author says they made it in one shot with Fable 5.5 through rerouting.
 - [Hogwarts Castle voxel in a single HTML file](https://x.com/dummerspast39/status/2111545177949209014) — @dummerspast39 — A video of a Hogwarts Castle voxel build in one HTML file that the author says Fable 5.5 generated. The author says another model edited the video and voice-over.
 - [Voxel propaganda piece](https://x.com/dummerspast39/status/2111957286620930535) — @dummerspast39 — A voxel video the author says Claude Fable 5.5 produced after about two minutes of prompting.
+- [H200 GPU in Three.js](https://x.com/dummerspast39/status/2113749909065101494) — @dummerspast39 — A roughly 30-second video of an NVIDIA H200 GPU assembling in Three.js, which the author titles as Fable 5.5.
 
 ### Films
 
