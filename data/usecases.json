@@ -2051,5 +2051,33 @@
     "stars": null,
     "notes": "Verified 2026-10-24 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Fable 5.5: H200 in Three.js\". Native video, about 30 seconds. 123 likes at intake.",
     "added": "2026-10-24"
+  },
+  {
+    "id": "x-ai-screening-cyclist-threejs",
+    "title": "Cyclist riding a bicycle in Three.js",
+    "url": "https://x.com/AI_Screening/status/2114266369248354357",
+    "demo_url": null,
+    "description": "A roughly 18-second Three.js video of a cyclist riding a bicycle that the author says Claude Fable 5.5 built, calling it the best cyclist-on-a-bicycle output they have got from an AI yet.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@AI_Screening",
+    "stars": null,
+    "notes": "Verified 2026-10-25 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"Claude Fable 5.5 built this in Three.js.\" Native video, about 18 seconds. 19 likes at intake. Quotes an earlier routing note from the same author; the creative video is on this post.",
+    "added": "2026-10-25"
+  },
+  {
+    "id": "x-shorenews1-roblox-fable",
+    "title": "Roblox scene made with Fable 5.5",
+    "url": "https://x.com/ShoreNews1/status/2114319093146980670",
+    "demo_url": null,
+    "description": "A Roblox scene video that the author says was made with Fable 5.5, with a follow-up promised for the prompts and responses.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@ShoreNews1",
+    "stars": null,
+    "notes": "Verified 2026-10-25 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"made with Fable 5.5\". Native video. Low engagement at intake (0 likes).",
+    "added": "2026-10-25"
   }
 ]
