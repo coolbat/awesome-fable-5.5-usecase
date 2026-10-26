@@ -2079,5 +2079,19 @@
     "stars": null,
     "notes": "Verified 2026-10-25 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"made with Fable 5.5\". Native video. Low engagement at intake (0 likes).",
     "added": "2026-10-25"
+  },
+  {
+    "id": "x-waveking1314-tradingview-indicator",
+    "title": "TradingView indicator written with Claude Fable 5.5",
+    "url": "https://x.com/waveking1314/status/2114572023204806669",
+    "demo_url": null,
+    "description": "A TradingView indicator demo video that the author says they recently wrote with Claude Fable 5.5, with live chart reading, suggested entry marks, a short comment, and a human decision on whether to trade.",
+    "source": "x",
+    "category": "videos",
+    "video_type": "3d",
+    "author": "@waveking1314",
+    "stars": null,
+    "notes": "Verified 2026-10-26 via built-in X tools. Community attribution only; Anthropic's public catalog still lists Fable 5.1. Quote: \"最近用Claude Fable 5.5 写的 TradingView 指标\". Native video, about 30 seconds. 64 likes at intake.",
+    "added": "2026-10-26"
   }
 ]

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 150 entries, 12 interactive, 138 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 151 entries, 12 interactive, 139 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-150 entries (12 interactive / games, 138 videos). Last updated 2026-10-25.
+151 entries (12 interactive / games, 139 videos). Last updated 2026-10-26.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 150 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 151 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -51,7 +51,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 138 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 139 entries.
 
 ### Motion design and code-drawn animation
 
@@ -162,6 +162,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [H200 GPU in Three.js](https://x.com/dummerspast39/status/2113749909065101494) — @dummerspast39 — A roughly 30-second video of an NVIDIA H200 GPU assembling in Three.js, which the author titles as Fable 5.5.
 - [Cyclist riding a bicycle in Three.js](https://x.com/AI_Screening/status/2114266369248354357) — @AI_Screening — A roughly 18-second Three.js video of a cyclist riding a bicycle that the author says Claude Fable 5.5 built, calling it the best cyclist-on-a-bicycle output they have got from an AI yet.
 - [Roblox scene made with Fable 5.5](https://x.com/ShoreNews1/status/2114319093146980670) — @ShoreNews1 — A Roblox scene video that the author says was made with Fable 5.5, with a follow-up promised for the prompts and responses.
+- [TradingView indicator written with Claude Fable 5.5](https://x.com/waveking1314/status/2114572023204806669) — @waveking1314 — A TradingView indicator demo video that the author says they recently wrote with Claude Fable 5.5, with live chart reading, suggested entry marks, a short comment, and a human decision on whether to trade.
 
 ### Films
 
