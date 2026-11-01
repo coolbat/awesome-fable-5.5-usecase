@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 152 entries, 12 interactive, 140 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 158 entries, 12 interactive, 146 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-152 entries (12 interactive / games, 140 videos). Last updated 2026-10-31.
+158 entries (12 interactive / games, 146 videos). Last updated 2026-11-01.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 152 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 158 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -51,7 +51,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 140 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 146 entries.
 
 ### Motion design and code-drawn animation
 
@@ -129,6 +129,12 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Fable vs Opus vs Sonnet vs Haiku one-shot](https://x.com/gmartidesign/status/2113463340387467554) — @gmartidesign — A roughly 12-second comparison video of the same prompt run one-shot on Haiku 5.5, Sonnet 5.5, Opus 5.5, and Fable 5.5, with the author reporting run times and costs for each.
 
 - [Pelican riding a bicycle SVG, Fable 5.5 Max](https://x.com/marmaduke091/status/2116233349391962392) — @marmaduke091 — An SVG still of a pelican riding a bicycle that the author titles as Fable 5.5 Max, with the prompt shown on the post. The author later posted an animated SVG follow-up of the same piece.
+- [Gemini 4 Carbon vs Fable 5.5 pelican bike](https://x.com/leo114119/status/2116652334734332212) — @leo114119 — A side-by-side pelican-on-a-bike comparison the author presents from gray testing, with Fable 5.5 in a photoreal style and Gemini 4 Carbon in a comic style.
+- [Bike on a pelican](https://x.com/notjazii/status/2116861637890379891) — @notjazii — A bike-on-a-pelican video the author titles as Fable 5.5.
+- [Post-humans reclaim one-shot from a reference](https://x.com/chetaslua/status/2116878661035106515) — @chetaslua — A roughly 50-second piece the author says Fable 5.5 one-shotted using only @zzzzshawn's Post Humans tweet as a reference, with a CodePen proof linked in a follow-up.
+- [Three.js realistic pelican riding a bike](https://x.com/chetaslua/status/2116882694026269148) — @chetaslua — A one-shot Three.js photoreal pelican-riding-a-bike animation the author labels as Fable 5.5 / Opus-Next routing output, with a Karpathy-2026 knowledge-cutoff check described as proof.
+- [Fable 5.5 vs Opus 5.5 same-prompt styles](https://x.com/notjazii/status/2116893197939224714) — @notjazii — A same-prompt style comparison video the author ran on Fable 5.5 and Opus 5.5, saying Fable clearly led in every way.
+- [3D pelican on a seaside bike ride](https://x.com/leo114119/status/2116893571739775220) — @leo114119 — A 3D pelican riding a bike by the sea that the author says came from their own Fable 5.5 gray access, with photoreal feathers, feet, bike detail, and background.
 
 ### Interactive 3D
 
