@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 158 entries, 12 interactive, 146 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 170 entries, 13 interactive, 157 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-158 entries (12 interactive / games, 146 videos). Last updated 2026-11-01.
+170 entries (13 interactive / games, 157 videos). Last updated 2026-11-02.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 158 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 170 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -48,10 +48,11 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 - [Sealed rainforest in three.js (Silva Minima)](https://x.com/RobinDenmark/status/2108194732744888801) — @RobinDenmark — A sealed montane rainforest in three.js that the author says Fable 5.5 created over about 14 hours. **[Live demo](https://silva-minima.vercel.app/)**
 - [Sam Altman clay bust in 3D](https://x.com/designwkarthick/status/2110449490901848483) — @designwkarthick — An interactive 3D clay bust of Sam Altman with front, side, studio, live-light, clay, and turntable views. The author shares it as a Claude artifact and says Claude Fable 5.5 did an amazing job, in a quote of their earlier ChatGPT Dots version. **[Live demo](https://claude.ai/artifact/5NR9DHB8zzWMr3Lo9o3aSK)**
 - [Screenshot Heist, a little browser game](https://x.com/dummerspast39/status/2111941623034634356) — @dummerspast39 — A small browser game the author says they made with Fable 5.5 in Claude.ai, with a play video on the post. **[Live demo](https://screenshot-heist-oct18.dummerspast39.chatgpt.site/)**
+- [Detailed Minecraft one-shot](https://x.com/notjazii/status/2116919129974411584) — @notjazii — A detailed Minecraft-style game the author says Fable 5.5 one-shot in an hour or two, with a playable demo linked on the post. **[Play](https://model-tests.vercel.app/)**
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 146 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 157 entries.
 
 ### Motion design and code-drawn animation
 
@@ -135,6 +136,15 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Three.js realistic pelican riding a bike](https://x.com/chetaslua/status/2116882694026269148) — @chetaslua — A one-shot Three.js photoreal pelican-riding-a-bike animation the author labels as Fable 5.5 / Opus-Next routing output, with a Karpathy-2026 knowledge-cutoff check described as proof.
 - [Fable 5.5 vs Opus 5.5 same-prompt styles](https://x.com/notjazii/status/2116893197939224714) — @notjazii — A same-prompt style comparison video the author ran on Fable 5.5 and Opus 5.5, saying Fable clearly led in every way.
 - [3D pelican on a seaside bike ride](https://x.com/leo114119/status/2116893571739775220) — @leo114119 — A 3D pelican riding a bike by the sea that the author says came from their own Fable 5.5 gray access, with photoreal feathers, feet, bike detail, and background.
+- [Fable 5.5 vs Opus 5.5 flying pelican bike](https://x.com/leo114119/status/2116901575490929109) — @leo114119 — A side-by-side comparison the author presents of Fable 5.5 and Opus 5.5 on a bicycle riding a wing-spread pelican.
+- [Sam Altman in voxel art](https://x.com/chetaslua/status/2116912822806520027) — @chetaslua — A voxel-art still of @sama that the author says Fable 5.5 one-shotted.
+- [Coke can one-shot](https://x.com/abhinavflac/status/2116919086521499730) — @abhinavflac — A Coke-can piece the author says Fable 5.5 one-shotted via Opus routing, with proofs linked in the comments.
+- [Three.js car](https://x.com/chetaslua/status/2116975056014430419) — @chetaslua — A Three.js car animation the author labels as Fable 5.5.
+- [Pure-code animated short one-shot](https://x.com/chetaslua/status/2117169796290916732) — @chetaslua — A pure-code animated short the author says Fable 5.5 one-shotted, with a Karpathy-2026 knowledge-cutoff check described as proof.
+- [Fable 5.5 vs Gemini 4 Carbon 3D cola](https://x.com/leo114119/status/2117198197160546435) — @leo114119 — A side-by-side 3D cola soft-drink realism comparison the author ran on Fable 5.5 and Gemini 4 Carbon.
+- [AGI-feeling pure-code animation](https://x.com/notjazii/status/2117221957104239010) — @notjazii — A pure-code animation with no external assets that the author says Fable 5.5 made in about an hour after they asked for something that feels like AGI.
+- [Three.js one-shot ride](https://x.com/AI_Screening/status/2117259686747705830) — @AI_Screening — A Three.js ride animation the author says Claude Fable 5.5 one-shot, calling it the best Anthropic-model output they have seen.
+- [Combat animation](https://x.com/notjazii/status/2117261864904351848) — @notjazii — A combat animation the author titles as Fable 5.5, with native video on the post.
 
 ### Interactive 3D
 
@@ -171,6 +181,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Cyclist riding a bicycle in Three.js](https://x.com/AI_Screening/status/2114266369248354357) — @AI_Screening — A roughly 18-second Three.js video of a cyclist riding a bicycle that the author says Claude Fable 5.5 built, calling it the best cyclist-on-a-bicycle output they have got from an AI yet.
 - [Roblox scene made with Fable 5.5](https://x.com/ShoreNews1/status/2114319093146980670) — @ShoreNews1 — A Roblox scene video that the author says was made with Fable 5.5, with a follow-up promised for the prompts and responses.
 - [TradingView indicator written with Claude Fable 5.5](https://x.com/waveking1314/status/2114572023204806669) — @waveking1314 — A TradingView indicator demo video that the author says they recently wrote with Claude Fable 5.5, with live chart reading, suggested entry marks, a short comment, and a human decision on whether to trade.
+- [Interactive 3D historical sailing ship](https://x.com/abhinavflac/status/2116945827738665060) — @abhinavflac — An interactive 3D historical sailing ship the author titles as Fable 5.5, saying a zero-shot prompt produced a scene that feels alive.
 
 ### Films
 
@@ -209,6 +220,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Song generated completely in code](https://x.com/dummerspast39/status/2112085543563440223) — @dummerspast39 — A short music piece the author says Fable 5.5 generated completely in code.
 - ["2slimey type beat" in Python](https://x.com/dummerspast39/status/2112119732174303735) — @dummerspast39 — A beat the author says Fable 5.5 made with Python from the prompt "2slimey type beat". The author jokes that it sounds like Japanese dubstep, not the style they asked for.
 - [Sad AlbertX The Movie](https://x.com/SadAlbert10/status/2112259952224141654) — @SadAlbert10 — A five-minute voxel movie with TTS voices that the author says they made, with Fable 5.5 credited as editor. The author credits Fish Audio for speech and Kreiin for the music.
+- [66-second fox and paper-birds short film in pure code](https://x.com/chetaslua/status/2117224839010459987) — @chetaslua — A roughly 66-second animated short film the author says Fable 5.5 made with zero image models: fox, paper birds, clouds, lettering, score, and SFX as Python in a single HTML file after about 2h40m of autonomous work.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
