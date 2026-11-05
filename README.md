@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 194 entries, 14 interactive, 180 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 199 entries, 14 interactive, 185 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-194 entries (14 interactive / games, 180 videos). Last updated 2026-11-04.
+199 entries (14 interactive / games, 185 videos). Last updated 2026-11-05.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 194 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 199 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -53,7 +53,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 180 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 185 entries.
 
 ### Motion design and code-drawn animation
 
@@ -156,6 +156,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Birth of life tree animation](https://x.com/notjazii/status/2117972258090357164) — @notjazii — A pure-code birth-of-the-life-tree animation the author says Fable 5.5 one-shotted in about an hour, with native video on the post.
 - [Fine pixel island village](https://x.com/abhinavflac/status/2117693193429139965) — @abhinavflac — A fine-pixel island village brought to life in code—houses, villagers, boats, waterfalls, lanterns, fireworks, and music—that the author titles as Fable 5.5.
 - [Anime stickman sword fight (Fable 5.5 TESTING Part 3)](https://x.com/camperaigg/status/2117717189059026969) — @camperaigg — An anime-style stickman sword-fight short the author says Claude Fable 5.5 made from one prompt in about 66 minutes (~$15.71 API), without them touching the code.
+- [Whale breach cel-shaded ocean (Fable 5.5 TESTING Part 7)](https://x.com/camperaigg/status/2118069524306284556) — @camperaigg — A roughly 31-second cel-shaded whale-breach short the author says Claude Fable 5.5 Xhigh made from one prompt in about 154 minutes (~$17.85 API), with fluid sim, code-modelled whale, and synthesized score.
+- [42-second apocalyptic robots animation](https://x.com/ka1manov/status/2118045185972314232) — @ka1manov — A roughly 42-second animation of apocalyptic worlds with robots that the author says they one-shotted with Fable 5.5 from a short prompt, with native video on the post.
 
 ### Interactive 3D
 
@@ -199,6 +201,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Link's Master Sword in Blender (Fable 5.5 TESTING Part 2)](https://x.com/camperaigg/status/2117694354685092255) — @camperaigg — A Blender Master Sword build the author says Claude Fable 5.5 Xhigh made from one prompt in about 32 minutes (~$6.71 API), without them touching Blender.
 - [Transformer truck in Blender (Fable 5.5 TESTING Part 4)](https://x.com/camperaigg/status/2117914482752299311) — @camperaigg — A transforming truck-to-robot Blender animation the author says Claude Fable 5.5 Xhigh made from one prompt in about 107 minutes (~$9.64 API).
 - [Howl's Moving Castle internals (Fable 5.5 TESTING Part 5)](https://x.com/camperaigg/status/2117966825048997914) — @camperaigg — A Howl's Moving Castle build that opens to show internal machinery, which the author says Claude Fable 5.5 Xhigh made from one prompt in about 133 minutes (~$12.37 API) without Blender by hand.
+- [Mechanical heart that pumps oil (Fable 5.5 TESTING Part 6)](https://x.com/camperaigg/status/2118002649929056373) — @camperaigg — A Blender mechanical heart that pumps oil, which the author says Claude Fable 5.5 Xhigh made from one prompt in about 106 minutes (~$12.35 API), with pistons, opening shell, synthesized score, and SFX.
 - [Interactive hypercar configurator](https://x.com/shmidtqq/status/2117977426990944736) — @shmidtqq — An interactive Three.js hypercar configurator the author says they one-shotted with Fable 5.5 (pure code geometry and materials); the post carries a video demo and no separate live-demo URL in the captured text.
 
 ### Films
@@ -245,6 +248,8 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Lighthouse keeper anime short](https://x.com/seeconvm/status/2117965120760365494) — @seeconvm — A roughly 60-second pure Three.js anime short about a lighthouse keeper that the author says Fable 5.5 one-shotted with no image or video models.
 - [48-second pure-code film](https://x.com/woodxbt/status/2117973166488191179) — @woodxbt — A roughly 48-second film the author says they one-shotted with Fable 5.5 as pure code with sound in one offline HTML file.
 - [83-second Three.js film](https://x.com/0xMovez/status/2117987052419428576) — @0xMovez — A roughly 83-second film the author says they one-shot with Fable 5.5 in under three hours using parallel agent teams, pure Three.js, and no image or video model.
+- [Camera through Jupiter's core (Fable 5.5 TESTING Part 8)](https://x.com/camperaigg/status/2118246310981910811) — @camperaigg — A roughly 46-second unbroken Three.js fly-through of Jupiter's core that the author says Claude Fable 5.5 Xhigh made from one prompt in about 149 minutes (~$11.44 API), with fluid clouds, synthesized score, and self-fixed lighting.
+- [Row into a 31 m wave in a lightning storm (Fable 5.5 TESTING Part 9)](https://x.com/camperaigg/status/2118317021935071339) — @camperaigg — A roughly 35-second unbroken storm-rowing short the author says Claude Fable 5.5 Xhigh made from one prompt in about 89 minutes (~$11.89 API), with timed swells, lightning as key light, and Python-synthesized thunder.
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
 
