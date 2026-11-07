@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 204 entries, 14 interactive, 190 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 210 entries, 14 interactive, 196 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-204 entries (14 interactive / games, 190 videos). Last updated 2026-11-06.
+210 entries (14 interactive / games, 196 videos). Last updated 2026-11-07.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 204 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 210 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -53,7 +53,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 190 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 196 entries.
 
 ### Motion design and code-drawn animation
 
@@ -246,15 +246,21 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [What kindness means (pure code)](https://x.com/abhinavflac/status/2117883591019708740) — @abhinavflac — A pure-code short the author says they asked Fable 5.5 to show what kindness means, noting every frame and the sound are code and highlighting the ending where light given to a child returns brighter.
 - [40-second motion film](https://x.com/flxrnc/status/2117965294224232796) — @flxrnc — A roughly 40-second film the author attributes to Fable 5.5, inviting others to send a PDF prompt to recreate it.
 - [Lighthouse keeper anime short](https://x.com/seeconvm/status/2117965120760365494) — @seeconvm — A roughly 60-second pure Three.js anime short about a lighthouse keeper that the author says Fable 5.5 one-shotted with no image or video models.
+- [Giant mecha catching a meteor (pure code)](https://x.com/seeconvm/status/2119052317227987018) — @seeconvm — An ~82s pure-code short of a giant mecha catching a meteor that the author says used Fable 5.5 with no image/video models, six parallel agents, 36 shots, and 1968 frames rendered in code.
 - [48-second pure-code film](https://x.com/woodxbt/status/2117973166488191179) — @woodxbt — A roughly 48-second film the author says they one-shotted with Fable 5.5 as pure code with sound in one offline HTML file.
 - [83-second Three.js film](https://x.com/0xMovez/status/2117987052419428576) — @0xMovez — A roughly 83-second film the author says they one-shot with Fable 5.5 in under three hours using parallel agent teams, pure Three.js, and no image or video model.
 - [Camera through Jupiter's core (Fable 5.5 TESTING Part 8)](https://x.com/camperaigg/status/2118246310981910811) — @camperaigg — A roughly 46-second unbroken Three.js fly-through of Jupiter's core that the author says Claude Fable 5.5 Xhigh made from one prompt in about 149 minutes (~$11.44 API), with fluid clouds, synthesized score, and self-fixed lighting.
 - [Row into a 31 m wave in a lightning storm (Fable 5.5 TESTING Part 9)](https://x.com/camperaigg/status/2118317021935071339) — @camperaigg — A roughly 35-second unbroken storm-rowing short the author says Claude Fable 5.5 Xhigh made from one prompt in about 89 minutes (~$11.89 API), with timed swells, lightning as key light, and Python-synthesized thunder.
 - [6-frame axe GIF to full 3D (Fable 5.5 TESTING Part 10)](https://x.com/camperaigg/status/2118410521363845534) — @camperaigg — A Blender full-3D rebuild from a 6-frame axe GIF that the author says Claude Fable 5.5 Xhigh made from one prompt in about 112 minutes (~$10.18 API), with a turnaround orbit and self-fixed axe depth.
 - [Basketball drop physics in Blender (Fable 5.5 TESTING Part 11)](https://x.com/camperaigg/status/2118673822459281765) — @camperaigg — A roughly 22-second basketball-drop physics short the author says Claude Fable 5.5 Xhigh made from one prompt in about 293 minutes (~$16.53 API), with a custom pressurized-shell solver and Blender window turnaround.
+- [Three.js 44× slow-mo match strike (TESTING Part 12)](https://x.com/camperaigg/status/2118728540976009336) — @camperaigg — A one-prompt Three.js slow-motion match strike with a custom GPU fire sim the author says Claude Fable 5.5 Xhigh built in about 116 minutes for about $13.02, with no hand edits to the three.js.
+- [Three.js smoke and burning farewell letter (TESTING Part 13)](https://x.com/camperaigg/status/2119006297513435548) — @camperaigg — A Three.js clip with smoke and a handwritten farewell letter that burns, which the author says Claude Fable 5.5 Xhigh made in about 196 minutes for about $17.51, with no hand-edited code.
+- [Riding lightning from cloud to ground (TESTING Part 14)](https://x.com/camperaigg/status/2119052253982306393) — @camperaigg — A storm sim of riding lightning from cloud to ground that the author says Claude Fable 5.5 Xhigh one-prompted in about 182 minutes for about $17.57, with no hand-edited code.
 - [Flying dragon over ocean warships game](https://x.com/noisyb0y1/status/2118451983359311957) — @noisyb0y1 — A one-HTML-file flying-dragon game over an ocean with warships that shoot at you, which the author says Fable 5.5 built in about 15 minutes (plus a 4-minute fix) and sold the same day.
 - [Rainbow jelly grows back vs Gemini 4 Carbon](https://x.com/0xRhinoX/status/2118415577299460432) — @0xRhinoX — A same-prompt rainbow-jelly comparison the author ran on Gemini 4 Carbon and Fable 5.5, saying Fable's jelly pulls itself back together after cutting, nailing, and torching.
+- [Gary the Plumber vs Gemini 4 Carbon](https://x.com/0xRhinoX/status/2118789381662429475) — @0xRhinoX — A same-prompt comparison where Fable 5.5 produces Gary the Plumber against Gemini 4 Carbon; the author says the Fable side took about $34 / 29 minutes.
 - [83-second pure-code anime short](https://x.com/zodchiii/status/2118363287738073343) — @zodchiii — A roughly 83-second anime short the author says they built with Fable 5.5 in about an hour as pure Three.js with eight agent teams, 39 shots, and a synthesized score in one offline HTML file.
+- [Pure Claude audio-visual short](https://x.com/zudasworld/status/2118868603093369078) — @zudasworld — A short the author attributes to Claude Fable 5.5, claiming voice and picture were generated by Claude with no third-party audio/video models.
 
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
