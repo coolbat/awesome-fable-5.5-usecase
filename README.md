@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 214 entries, 14 interactive, 200 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 219 entries, 14 interactive, 205 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-214 entries (14 interactive / games, 200 videos). Last updated 2026-11-08.
+219 entries (14 interactive / games, 205 videos). Last updated 2026-11-09.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 214 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 219 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -53,7 +53,7 @@ A post that only predicts a release, leaks a system prompt, or repeats someone e
 
 ## Videos from X
 
-Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 200 entries.
+Video works whose authors attribute them to Claude Fable 5.5. Each item links the creator's original X post (`@author`). Posts were checked via `api.fxtwitter.com` (2026-10-03, 2026-10-04, and 2026-10-05), or via the X API (2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-10, 2026-10-12, and 2026-10-13; the 2026-10-10 set was rechecked via api.fxtwitter.com on 2026-10-11), to exist, to say Fable 5.5 in their own text, and to carry a native video or still artifact. Reposts of the same video are listed once, under the original creator. These posts are community claims. They are not an official model card. 205 entries.
 
 ### Motion design and code-drawn animation
 
@@ -265,6 +265,11 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Blue ink in a glass flask of water (TESTING Part 15)](https://x.com/camperaigg/status/2119097552943612410) — @camperaigg — A one-prompt Three.js clip of blue ink injected into a glass flask of water that the author says Claude Fable 5.5 Xhigh made in about 156 minutes for about $24.17, without them touching three.js, with a custom fluid solver and a 30-second 1080p60 render.
 - [Ocean horror trailer in three.js (TESTING Part 16)](https://x.com/camperaigg/status/2119380309963850171) — @camperaigg — An ocean horror trailer the author says Claude Fable 5.5 Xhigh made in three.js in about 194 minutes for about $17.40, without them touching the code, later recut into 26 shots as a movie trailer (about 39.6 seconds).
 - [Drop into a black hole in three.js (TESTING Part 17)](https://x.com/camperaigg/status/2119429740041732118) — @camperaigg — A Three.js fall into a black hole that the author says Claude Fable 5.5 Xhigh made in about 122 minutes for about $13.02, without them touching the code, using a custom GLSL ray tracer (about 30 seconds, 1,800 frames).
+- [Jelly vs Gemini Carbon 4 with raspberries and a pulse meter](https://x.com/0xRhinoX/status/2119487544396312901) — @0xRhinoX — A same-prompt jelly comparison the author ran on Claude Fable 5.5 ($46.00, 52 min) and Gemini Carbon 4 ($1.50, 24 min), saying Fable hid raspberries inside and added a score and a jelly pulse meter, while Carbon returned a red block and a hammer.
+- [84-second pure-code anime short](https://x.com/flxrnc/status/2119767052021903831) — @flxrnc — A roughly 84-second anime short the author attributes to one Fable 5.5 prompt: seven parallel agent teams, Three.js with no video model, 40 shots, 2,016 code-drawn frames, synthesized sound, and one offline HTML file.
+- [78-second anime fight short (pure code)](https://x.com/anstapnever/status/2119772039037014524) — @anstapnever — A roughly 78-second Three.js anime short the author says they built with Claude Fable 5.5, with no image or video models: six parallel agent teams (city, sky, warlord, capybara, FX, sound), 31 shots, 1,877 code-rendered frames, a city on a ring around a planet, and a 7 km hive ship.
+- [Mountain waking as a dragon (pure code)](https://x.com/seeconvm/status/2119777169542938662) — @seeconvm — A pure-code short of a mountain waking as a dragon and carrying a tiny shrine keeper into a storm that the author says they made with Fable 5.5, with no image or video models, five parallel agent teams, 30 shots, 1,824 code-rendered frames, synthesized sound, and one offline HTML file.
+- [Ballpoint pen writing ASMR (TESTING Part 18)](https://x.com/camperaigg/status/2119777467074580741) — @camperaigg — A roughly 22-second 1080p30 Blender macro of a ballpoint pen writing that the author says Claude Fable 5.5 Xhigh made from one prompt in about 365 minutes (~$12.42 API), without them touching Blender: paper from 535,030 fibres, 27 million ink texels, nine hand-authored strokes, a rolling ball, and 11 real recordings synced to the nib (660 Cycles frames, no music).
 
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
