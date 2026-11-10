@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 219 entries, 14 interactive, 205 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 228 entries, 14 interactive, 214 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-219 entries (14 interactive / games, 205 videos). Last updated 2026-11-09.
+228 entries (14 interactive / games, 214 videos). Last updated 2026-11-10.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 219 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 228 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -270,6 +270,15 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [78-second anime fight short (pure code)](https://x.com/anstapnever/status/2119772039037014524) — @anstapnever — A roughly 78-second Three.js anime short the author says they built with Claude Fable 5.5, with no image or video models: six parallel agent teams (city, sky, warlord, capybara, FX, sound), 31 shots, 1,877 code-rendered frames, a city on a ring around a planet, and a 7 km hive ship.
 - [Mountain waking as a dragon (pure code)](https://x.com/seeconvm/status/2119777169542938662) — @seeconvm — A pure-code short of a mountain waking as a dragon and carrying a tiny shrine keeper into a storm that the author says they made with Fable 5.5, with no image or video models, five parallel agent teams, 30 shots, 1,824 code-rendered frames, synthesized sound, and one offline HTML file.
 - [Ballpoint pen writing ASMR (TESTING Part 18)](https://x.com/camperaigg/status/2119777467074580741) — @camperaigg — A roughly 22-second 1080p30 Blender macro of a ballpoint pen writing that the author says Claude Fable 5.5 Xhigh made from one prompt in about 365 minutes (~$12.42 API), without them touching Blender: paper from 535,030 fibres, 27 million ink texels, nine hand-authored strokes, a rolling ball, and 11 real recordings synced to the nib (660 Cycles frames, no music).
+- [Morning glory with no plant (TESTING Part 19)](https://x.com/camperaigg/status/2119822824533532996) — @camperaigg — A Blender clip of a morning glory the author asked Claude to grow, saying there is no plant, one prompt, a few quick picks, and they never touched Blender. The post names Claude Fable 5.5 Xhigh in Claude Code, about 377 minutes (about 4 hours of that for GPU rendering), and about $17.53 in API costs.
+- [The Backrooms: No Exit](https://x.com/0xRhinoX/status/2119859309698003069) — @0xRhinoX — A Backrooms game the author says they built hands-free by voice with Fable 5.5 during a car ride: infinite yellow rooms, three lost tapes, a camcorder that beeps when something is close, and a 1996 VHS look. The post names Claude Fable 5.5 at $83.00 and 2 hours 10 minutes.
+- [CRT TV smash test vs Gemini 4 Carbon](https://x.com/dromexa/status/2119861870588989676) — @dromexa — A same-prompt smash test of an old CRT TV you can hit with a hammer. The author says Claude Fable 5.5 ran in 57 minutes at $22.9, and Gemini 4 Carbon ran in 18 minutes at $3.1, scored on how the pieces fly.
+- [Motion edit](https://x.com/SadAlbert10/status/2119886268188536884) — @SadAlbert10 — A motion-edit video the author says Fable 5.5 made.
+- [Unreal Engine 5 racing game from one prompt](https://x.com/GPTabby/status/2119909996645298519) — @GPTabby — A racing game in Unreal Engine 5 that the author says Fable 5.5 made from a single prompt.
+- [The Other Side](https://x.com/ishuagra02/status/2119951538345201781) — @ishuagra02 — A short titled The Other Side that the author says was animated by Fable 5.5.
+- [15-second plane flight](https://x.com/JamesDa55049936/status/2120048561035649081) — @JamesDa55049936 — A roughly 15-second plane-flight clip the author says they made with Fable 5.5, asking it to design a flight video of about 15 seconds itself.
+- [Recreation of an official promo](https://x.com/EianLu/status/2120050142006927515) — @EianLu — A recreation of an official promo the author says Fable 5.5 made in about an hour, with a small flag added on a character's back so the copy can be told apart. The author says it is close to the original, not identical.
+- [A world of plants and animals](https://x.com/qwjcool/status/2120051782009393425) — @qwjcool — An under-one-minute film of plants and animals with music that the author says Fable 5.5 medium made from one prompt asking for the most beautiful living world and fitting music.
 
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
