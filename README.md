@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 232 entries, 14 interactive, 218 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 236 entries, 14 interactive, 222 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-232 entries (14 interactive / games, 218 videos). Last updated 2026-11-11.
+236 entries (14 interactive / games, 222 videos). Last updated 2026-11-12.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 232 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 236 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -283,6 +283,10 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [SplatMaker Beta3](https://x.com/tommyoshima/status/2120333128711733707) — @tommyoshima — A SplatMaker tool now on Beta3 that the author says they have been making with Claude Fable 5.5, still a bumpy ride but a bit better than the first scratch, with a Godzilla splat from when the -1.0 build was released. Native video on the post.
 - ['Hi ChatGPT' visualised](https://x.com/petergostev/status/2120443904323391519) — @petergostev — A visualisation of 'Hi ChatGPT', a piece the author says was written by GPT-4.5 and is now visualised with Fable 5.5, with native video on the post.
 - [Ghibli-style short in JS and Python](https://x.com/Yuyummmmmmmmmm/status/2120458669586325787) — @Yuyummmmmmmmmm — A Ghibli-style animated short the author says they made with Fable 5.5, using multiple agents over 19 hours, drawing it frame by frame in JS and Python, with consistent art direction across cuts, water, and mechanical motion.
+- [The Umbrella Who Never Saw the Sun](https://x.com/DaDw26/status/2120528609165083012) — @DaDw26 — A p5.js short titled "The Umbrella Who Never Saw the Sun" that the author says they made with Fable 5.5, with native video on the post.
+- [Meadow landscape in JavaScript](https://x.com/LexnLin/status/2120686766571040950) — @LexnLin — Still frames of a flower-meadow landscape under towering clouds that the author says were made by Fable 5.5 with JavaScript.
+- [Villa walkthrough from a floor plan](https://x.com/morbianai/status/2120821188825878774) — @morbianai — A villa walkthrough the author says they made by giving Claude Fable 5.5 a flat floor plan, with a corner map that tracks the viewer's place on the plan as they move from the living room to the kitchen island, a reading corner by the glass wall, and the dining table under paper lanterns. Native video on the post.
+- [Sushi game animations](https://x.com/redeses01/status/2120852840520564823) — @redeses01 — A sushi-game clip the author says they have been making for about a month, writing that Fable 5.5 cracks it and that the animations are good, with native video on the post.
 
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
