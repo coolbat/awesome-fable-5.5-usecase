@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 241 entries, 14 interactive, 227 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 242 entries, 14 interactive, 228 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-241 entries (14 interactive / games, 227 videos). Last updated 2026-11-23.
+242 entries (14 interactive / games, 228 videos). Last updated 2026-11-24.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 239 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 242 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -292,6 +292,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [Sprite-stacking Tokyo at night](https://x.com/semichenkko/status/2124497510722879653) — @semichenkko — A 25-second 1920×1080 sprite-stacking voxel animation of night Tokyo (Tokyo Tower, Shibuya neon, a shinkansen, then a floating city), which the author says Fable 5.5 made, with native video on the post.
 - [Pumped, an iOS workout app](https://x.com/FynnMinkus/status/2124773204350886250) — @FynnMinkus — An iOS gym tracker named Pumped that the author says Fable 5.5 one-shotted in 30 minutes. Screenshots on the post show the home-screen icon, a Push workout log, and the app running on an iPhone next to the Xcode project. The author says they have been using it for the past week and that it created a working app logo on its own.
 - [DreamWorks intro recreated in code](https://x.com/itssotsot/status/2124835745747894628) — @itssotsot — A 30-second 1920×1080 recreation of the DreamWorks SKG boy-fishing-on-the-moon logo intro, which the author says Fable 5.5 made on high from the same prompt as their Astra 6.2 version. Native video on the post.
+- [Pandas in a rainy bamboo forest (SVG)](https://x.com/legit_api/status/2125215156380557656) — @legit_api — Three stills of an SVG of pandas in a rainy bamboo forest, which the author presents as Opus-next versus Fable 5.2 versus Fable 5.5 from the same prompt. The third still is labeled Fable 5.5 on the image.
 
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
