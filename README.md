@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 243 entries, 14 interactive, 229 videos.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Fable 5.5 use cases: public demos whose authors say they used Claude Fable 5.5. Not an official release. The public catalog is still Fable 5.1. 244 entries, 14 interactive, 230 videos.">
 </p>
 
 A curated list of **public use cases attributed to Claude Fable 5.5**, collected from GitHub, X, and Hacker News.
@@ -8,7 +8,7 @@ A curated list of **public use cases attributed to Claude Fable 5.5**, collected
 
 **Status.** As of 2026-10-05, Anthropic's public model catalog still lists Claude Fable 5.1. This list does not claim an official Fable 5.5 release, and it does not copy rumored specs, prices, or benchmarks. An entry is included only when a public source says Fable 5.5 was used and the link still resolves.
 
-243 entries (14 interactive / games, 229 videos). Last updated 2026-11-25.
+244 entries (14 interactive / games, 230 videos). Last updated 2026-11-28.
 
 <p align="center">
   <img src="./assets/readme/proof.svg" width="100%" alt="Three sourced cases: Waymo built with Fable 5.5 and Three.js, a Hugging Face incident film imagined by Fable 5.5, and a human-progress film from one Fable 5.5 prompt.">
@@ -31,7 +31,7 @@ A source index, not a model card. The cases below are community posts. Each one 
 A post that only predicts a release, leaks a system prompt, or repeats someone else's video stays out. Nothing on this page is an official score, price, or spec.
 
 <p align="center">
-  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 243 sourced Fable 5.5 cases, with the original titles and links.">
+  <img src="./assets/readme/section-cases.svg" width="100%" alt="The list of 244 sourced Fable 5.5 cases, with the original titles and links.">
 </p>
 
 ## Interactive 3D and games
@@ -294,6 +294,7 @@ Video works whose authors attribute them to Claude Fable 5.5. Each item links th
 - [DreamWorks intro recreated in code](https://x.com/itssotsot/status/2124835745747894628) — @itssotsot — A 30-second 1920×1080 recreation of the DreamWorks SKG boy-fishing-on-the-moon logo intro, which the author says Fable 5.5 made on high from the same prompt as their Astra 6.2 version. Native video on the post.
 - [Pandas in a rainy bamboo forest (SVG)](https://x.com/legit_api/status/2125215156380557656) — @legit_api — Three stills of an SVG of pandas in a rainy bamboo forest, which the author presents as Opus-next versus Fable 5.2 versus Fable 5.5 from the same prompt. The third still is labeled Fable 5.5 on the image.
 - [Jellyfish from thousands of threads](https://x.com/sas1kkk/status/2125317347376550373) — @sas1kkk — A 25-second 1280×720 GLSL animation of a single glowing thread jellyfish (on-screen telemetry: 72 strands, 66,224 vertices, 30 fps) that the author says Claude Fable 5.5 wrote from one prompt in 5 minutes, with native video on the post.
+- [32,222-domino cascade](https://x.com/itssotsot/status/2126394955593912551) — @itssotsot — A 64-second 1920×1080 30fps rigid-body animation of 32,222 colored dominoes (compass star, spirals, rainbow ring, smiley, and a five-block finale that lands on "THE END"), which the author says Fable 5.5 produced in 1 hour, 11 minutes, and 13 seconds, with native video on the post. The post quotes the author's earlier GPT-6.2 Astra version of the same idea with 11,588 dominoes.
 
 
 Routing rumors, release predictions, and roundups that do not themselves present an artifact are left out. No benchmark pages. Nothing here is an official Fable 5.5 score, price, or spec.
